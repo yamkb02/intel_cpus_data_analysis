@@ -56,9 +56,9 @@ def dashboard_page():
         st.plotly_chart(px.box(df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
 
 if 'runpage' not in st.session_state:
-    st.session_state.runpage = 'dashboard'
+    st.session_state.runpage = 'app_dashboard'
 
-if st.session_state.runpage == 'dashboard':
+if st.session_state.runpage == 'app_dashboard':
     dashboard_page()
 elif st.session_state.runpage == 'cookbook':
     cookbook.run()
