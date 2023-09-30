@@ -6,6 +6,11 @@ def run():
         st.session_state.runpage = 'dashboard'
         st.experimental_rerun()
     st.write('## What is your data set?')
-    st.write('Our data set is the evolution of Intel CPUs')
+    st.write('answer')
     st.write('## Where did you acquire your data set?')
-    st.write('We acquired it online via kaggle')
+    st.write('answer')
+    st.write('## Why did you choose this data set?')
+    st.write('answer')
+    st.write('## Steps on how we processed the Dataset. (Cleaning, Filtering, Etc.)')
+    st.write('answer')
+    
