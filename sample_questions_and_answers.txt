@@ -61,7 +61,12 @@ Important Questions:
       - Intel may have different strategies and challenges for each market segment, depending on the customer needs and preferences.
 
       ---------------------------------------------
-      
+      The bar graph shows the distribution of core counts in Intel CPUs. It is based on the same dataset as the pie chart. It reveals that:
+
+      - The **most common** core count is **4**, with about **200** CPUs having this value. This means that most of the Intel CPUs have 4 cores, which can improve their performance and multitasking ability.
+      - The **least common** core count is **20**, with only about **1** CPUs having this value. This means that very few Intel CPUs have 20 cores, which may be due to their high cost and power consumption.
+      - The core count distribution is **skewed to the left**, with more CPUs having lower values than higher values. This means that Intel CPUs tend to have fewer cores, which may be suitable for most applications and customers.
+
 
 7. What type of visualizations are you planning to use and why?
 
