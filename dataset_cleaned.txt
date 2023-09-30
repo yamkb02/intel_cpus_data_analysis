@@ -1,0 +1,1077 @@
+,Model,Price,MarketSegment,Lithography,CoreCount,ThreadCount,ClockSpeedMax,TurboBoostMaxTechMaxFreq,ClockSpeed,Cache,Bus,MaxTDP,BornOnDate
+0,Intel® Core™ i9-10900X X-series Processor,$648.00 - $658.00,Desktop,14 nm,10,20,4.50 GHz,4.70 GHz,3.70 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
+1,Intel® Core™ i9-10920X X-series Processor,$759.00 - $769.00,Desktop,14 nm,12,24,4.60 GHz,4.80 GHz,3.50 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
+2,Intel® Core™ i9-10940X X-series Processor,$863.00 - $873.00,Desktop,14 nm,14,28,4.60 GHz,4.80 GHz,3.30 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
+3,Intel® Core™ i9-10980XE Extreme Edition Processor,$1076.00 - $1086.00,Desktop,14 nm,18,36,4.60 GHz,4.80 GHz,3.00 GHz,24.75 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
+4,Intel® Core™ i7-9800X X-series Processor,$589.00 ,Desktop,14 nm,8,16,4.40 GHz,4.50 GHz,3.80 GHz,16.5 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+5,Intel® Core™ i9-9820X X-series Processor,$889.00 ,Desktop,14 nm,10,20,4.10 GHz,4.20 GHz,3.30 GHz,16.5 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+6,Intel® Core™ i9-9900X X-series Processor,$989.00 ,Desktop,14 nm,10,20,4.40 GHz,4.50 GHz,3.50 GHz,19.25 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+7,Intel® Core™ i9-9920X X-series Processor,"$1,189.00 ",Desktop,14 nm,12,24,4.40 GHz,4.50 GHz,3.50 GHz,19.25 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+8,Intel® Core™ i9-9940X X-series Processor,"$1,387.00 ",Desktop,14 nm,14,28,4.40 GHz,4.50 GHz,3.30 GHz,19.25 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+9,Intel® Core™ i9-9960X X-series Processor,"$1,684.00 ",Desktop,14 nm,16,32,4.40 GHz,4.50 GHz,3.10 GHz,22 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+10,Intel® Core™ i9-9980XE Extreme Edition Processor,"$1,979.00 ",Desktop,14 nm,18,36,4.40 GHz,4.50 GHz,3.00 GHz,24.75 MB Intel® Smart Cache,8 GT/s,165 W,Q4'18
+11,Intel® Core™ i9-7940X X-series Processor,,Desktop,,14,28,4.30 GHz,4.40 GHz,3.10 GHz,19.25 MB,8 GT/s,165 W,Q3'17
+12,Intel® Core™ i9-7960X X-series Processor,,Desktop,,16,32,4.20 GHz,4.40 GHz,2.80 GHz,22 MB,8 GT/s,165 W,Q3'17
+13,Intel® Core™ i9-7980XE Extreme Edition Processor,,Desktop,,18,36,4.20 GHz,4.40 GHz,2.60 GHz,24.75 MB,8 GT/s,165 W,Q3'17
+14,Intel® Core™ i9-7920X X-series Processor,,Desktop,14 nm,12,24,4.30 GHz,4.40 GHz,2.90 GHz,16.5 MB L3 Cache,8 GT/s,140 W,Q3'17
+15,Intel® Core™ i5-7640X X-series Processor,,Desktop,14 nm,4,,4.20 GHz,,4.00 GHz,6 MB,8 GT/s,112 W,Q2'17
+16,Intel® Core™ i7-7740X X-series Processor,,Desktop,14 nm,4,8,4.50 GHz,,4.30 GHz,8 MB,8 GT/s,112 W,Q2'17
+17,Intel® Core™ i7-7800X X-series Processor,$383.00 ,Desktop,14 nm,6,12,4.00 GHz,,3.50 GHz,8.25 MB L3 Cache,8 GT/s,140 W,Q2'17
+18,Intel® Core™ i7-7820X X-series Processor,,Desktop,14 nm,8,16,4.30 GHz,4.50 GHz,3.60 GHz,11 MB L3 Cache,8 GT/s,140 W,Q2'17
+19,Intel® Core™ i9-7900X X-series Processor,,Desktop,14 nm,10,20,4.30 GHz,4.50 GHz,3.30 GHz,13.75 MB L3 Cache,8 GT/s,140 W,Q2'17
+20,Intel® Core™ i7-6800K Processor,$434.00 ,Desktop,14 nm,6,12,3.60 GHz,3.80 GHz,3.40 GHz,15 MB Intel® Smart Cache,,140 W,Q2'16
+21,Intel® Core™ i7-6850K Processor,$617.00 ,Desktop,14 nm,6,12,3.80 GHz,4.00 GHz,3.60 GHz,15 MB,,140 W,Q2'16
+22,Intel® Core™ i7-6900K Processor,"$1,089.00 ",Desktop,14 nm,8,16,3.70 GHz,4.00 GHz,3.20 GHz,20 MB,,140 W,Q2'16
+23,Intel® Core™ i7-6950X Processor Extreme Edition,"$1,723.00 ",Desktop,14 nm,10,20,3.50 GHz,4.00 GHz,3.00 GHz,25 MB,,140 W,Q2'16
+24,Intel® Core™ i7-5820K Processor,$396.00 ,Desktop,22 nm,6,12,3.60 GHz,,3.30 GHz,15 MB Intel® Smart Cache,0 GT/s,140 W,Q3'14
+25,Intel® Core™ i7-5930K Processor,$594.00 ,Desktop,22 nm,6,12,3.70 GHz,,3.50 GHz,15 MB Intel® Smart Cache,0 GT/s,140 W,Q3'14
+26,Intel® Core™ i7-5960X Processor Extreme Edition,"$1,059.00 ",Desktop,22 nm,8,16,3.50 GHz,,3.00 GHz,20 MB Intel® Smart Cache,0 GT/s,140 W,Q3'14
+27,Intel® Core™ i7-4940MX Processor Extreme Edition,,Mobile,22 nm,4,8,4.00 GHz,,3.10 GHz,8 MB Intel® Smart Cache,5 GT/s,57 W,Q1'14
+28,Intel® Core™ i7-4820K Processor,$332.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.70 GHz,10 MB Intel® Smart Cache,5 GT/s,130 W,Q3'13
+29,Intel® Core™ i7-4930K Processor,$594.00 ,Desktop,22 nm,6,12,3.90 GHz,,3.40 GHz,12 MB Intel® Smart Cache,5 GT/s,130 W,Q3'13
+30,Intel® Core™ i7-4960X Processor Extreme Edition,"$1,059.00 ",Desktop,22 nm,6,12,4.00 GHz,,3.60 GHz,15 MB Intel® Smart Cache,5 GT/s,130 W,Q3'13
+31,Intel® Core™ i7-4930MX Processor Extreme Edition,,Mobile,22 nm,4,8,3.90 GHz,,3.00 GHz,8 MB Intel® Smart Cache,5 GT/s,57 W,Q2'13
+32,Intel® Core™ i7-3970X Processor Extreme Edition,"$1,059.00 ",Desktop,32 nm,6,12,4.00 GHz,,3.50 GHz,15 MB Intel® Smart Cache,5 GT/s,150 W,Q4'12
+33,Intel® Core™ i7-3940XM Processor Extreme Edition,,Mobile,22 nm,4,8,3.90 GHz,,3.00 GHz,8 MB Intel® Smart Cache,5 GT/s,55 W,Q3'12
+34,Intel® Core™ i7-3920XM Processor Extreme Edition,,Mobile,22 nm,4,8,3.80 GHz,,2.90 GHz,8 MB Intel® Smart Cache,5 GT/s,55 W,Q2'12
+35,Intel® Core™ i7-3820 Processor,$305.00 ,Desktop,32 nm,4,8,3.80 GHz,,3.60 GHz,10 MB Intel® Smart Cache,5 GT/s,130 W,Q1'12
+36,Intel® Core™ i7-3930K Processor,$594.00 ,Desktop,32 nm,6,12,3.80 GHz,,3.20 GHz,12 MB Intel® Smart Cache,5 GT/s,130 W,Q4'11
+37,Intel® Core™ i7-3960X Processor Extreme Edition,"$1,059.00 ",Desktop,32 nm,6,12,3.90 GHz,,3.30 GHz,15 MB Intel® Smart Cache,5 GT/s,130 W,Q4'11
+38,Intel® Core™ i9-13900KS Processor,$689.00 - $699.00,Desktop,Intel 7,24,32,6.00 GHz,5.80 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+39,Intel® Core™ i9-13900 Processor,$549.00 - $579.00,Desktop,Intel 7,24,32,5.60 GHz,5.50 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+40,Intel® Core™ i9-13900E Processor,$554.00 ,Embedded,Intel 7,24,32,5.20 GHz,,1.80 GHz,36 MB Intel® Smart Cache,,65 W,Q1'23
+41,Intel® Core™ i9-13900F Processor,$524.00 - $554.00,Desktop,Intel 7,24,32,5.60 GHz,5.50 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+42,Intel® Core™ i9-13900H Processor,$617.00 ,Mobile,Intel 7,14,20,5.40 GHz,5.40 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+43,Intel® Core™ i9-13900HK Processor,$697.00 ,Mobile,Intel 7,14,20,5.40 GHz,5.40 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+44,Intel® Core™ i9-13900HX Processor,$668.00 ,Mobile,Intel 7,24,32,5.40 GHz,5.40 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+45,Intel® Core™ i9-13900T Processor,$549.00 ,Desktop,Intel 7,24,32,5.30 GHz,5.30 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+46,Intel® Core™ i9-13900TE Processor,$554.00 ,Embedded,Intel 7,24,32,5.00 GHz,,1.00 GHz,36 MB Intel® Smart Cache,,35 W,Q1'23
+47,Intel® Core™ i9-13905H Processor,$697.00 ,Mobile,Intel 7,14,20,5.40 GHz,5.40 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+48,Intel® Core™ i9-13950HX Processor,$590.00 ,Mobile,Intel 7,24,32,5.50 GHz,5.50 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+49,Intel® Core™ i9-13980HX Processor,$668.00 ,Mobile,Intel 7,24,32,5.60 GHz,5.50 GHz,,36 MB Intel® Smart Cache,,,Q1'23
+50,Intel® Core™ i9-13900K Processor,$589.00 - $599.00,Desktop,Intel 7,24,32,5.80 GHz,5.70 GHz,,36 MB Intel® Smart Cache,,,Q4'22
+51,Intel® Core™ i9-13900KF Processor,$564.00 - $574.00,Desktop,Intel 7,24,32,5.80 GHz,5.70 GHz,,36 MB Intel® Smart Cache,,,Q4'22
+52,Intel® Core™ i7-1355U Processor,$469.00 ,Mobile,Intel 7,10,12,5.00 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+53,Intel® Core™ i7-1360P Processor,$480.00 ,Mobile,Intel 7,12,16,5.00 GHz,,,18 MB Intel® Smart Cache,,,Q1'23
+54,Intel® Core™ i7-13620H Processor,$502.00 ,Mobile,Intel 7,10,16,4.90 GHz,4.90 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+55,Intel® Core™ i7-13650HX Processor,$485.00 ,Mobile,Intel 7,14,20,4.90 GHz,4.90 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+56,Intel® Core™ i7-1365U Processor,$426.00 ,Mobile,Intel 7,10,12,5.20 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+57,Intel® Core™ i7-1365UE Processor,$429.00 ,Embedded,Intel 7,10,12,4.90 GHz,,1.70 GHz,12 MB Intel® Smart Cache,,15 W,Q1'23
+58,Intel® Core™ i7-13700 Processor,$384.00 - $394.00,Desktop,Intel 7,16,24,5.20 GHz,5.20 GHz,,30 MB Intel® Smart Cache,,,Q1'23
+59,Intel® Core™ i7-13700E Processor,$390.00 ,Embedded,Intel 7,16,24,5.10 GHz,,1.90 GHz,30 MB Intel® Smart Cache,,65 W,Q1'23
+60,Intel® Core™ i7-13700F Processor,$359.00 - $369.00,Desktop,Intel 7,16,24,5.20 GHz,5.20 GHz,,30 MB Intel® Smart Cache,,,Q1'23
+61,Intel® Core™ i7-13700H Processor,$502.00 ,Mobile,Intel 7,14,20,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+62,Intel® Core™ i7-13700HX Processor,$485.00 ,Mobile,Intel 7,16,24,5.00 GHz,5.00 GHz,,30 MB Intel® Smart Cache,,,Q1'23
+63,Intel® Core™ i7-13700T Processor,$384.00 ,Desktop,Intel 7,16,24,4.90 GHz,4.90 GHz,,30 MB Intel® Smart Cache,,,Q1'23
+64,Intel® Core™ i7-13700TE Processor,$390.00 ,Embedded,Intel 7,16,24,4.80 GHz,,1.10 GHz,30 MB Intel® Smart Cache,,35 W,Q1'23
+65,Intel® Core™ i7-13705H Processor,$502.00 ,Mobile,Intel 7,14,20,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+66,Intel® Core™ i7-1370P Processor,$438.00 ,Mobile,Intel 7,14,20,5.20 GHz,5.20 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+67,Intel® Core™ i7-1370PE Processor,$441.00 ,Embedded,Intel 7,14,20,4.80 GHz,,1.90 GHz,24 MB Intel® Smart Cache,,28 W,Q1'23
+68,Intel® Core™ i7-13800H Processor,$457.00 ,Mobile,Intel 7,14,20,5.20 GHz,5.20 GHz,,24 MB Intel® Smart Cache,,,Q1'23
+69,Intel® Core™ i7-13800HE Processor,$460.00 ,Embedded,Intel 7,14,20,5.00 GHz,,2.50 GHz,24 MB Intel® Smart Cache,,45 W,Q1'23
+70,Intel® Core™ i7-13850HX Processor,$428.00 ,Mobile,Intel 7,20,28,5.30 GHz,5.30 GHz,,30 MB Intel® Smart Cache,,,Q1'23
+71,Intel® Core™ i7-1370PRE Processor,,Embedded,Intel 7,14,20,4.80 GHz,,1.90 GHz,24 MB Intel® Smart Cache,,28 W,Q1'23
+72,Intel® Core™ i7-13800HRE Processor,,Embedded,Intel 7,14,20,5.00 GHz,,2.50 GHz,24 MB Intel® Smart Cache,,45 W,Q1'23
+73,Intel® Core™ i7-13700K Processor,$409.00 - $419.00,Desktop,Intel 7,16,24,5.40 GHz,5.40 GHz,,30 MB Intel® Smart Cache,,,Q4'22
+74,Intel® Core™ i7-13700KF Processor,$384.00 - $394.00,Desktop,Intel 7,16,24,5.40 GHz,5.40 GHz,,30 MB Intel® Smart Cache,,,Q4'22
+75,Intel® Core™ i5-1334U Processor,$340.00 ,Mobile,Intel 7,10,12,4.60 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+76,Intel® Core™ i5-1335U Processor,$340.00 ,Mobile,Intel 7,10,12,4.60 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+77,Intel® Core™ i5-1335UE Processor,$312.00 ,Embedded,Intel 7,10,12,4.50 GHz,,1.30 GHz,12 MB Intel® Smart Cache,,,Q1'23
+78,Intel® Core™ i5-13400 Processor,$221.00 - $231.00,Desktop,Intel 7,10,16,4.60 GHz,,,20 MB Intel® Smart Cache,,,Q1'23
+79,Intel® Core™ i5-13400E Processor,$224.00 ,Embedded,Intel 7,10,16,4.60 GHz,,2.40 GHz,20 MB Intel® Smart Cache,,65 W,Q1'23
+80,Intel® Core™ i5-13400F Processor,$196.00 - $206.00,Desktop,Intel 7,10,16,4.60 GHz,,,20 MB Intel® Smart Cache,,,Q1'23
+81,Intel® Core™ i5-13400T Processor,$221.00 ,Desktop,Intel 7,10,16,4.40 GHz,,,20 MB Intel® Smart Cache,,,Q1'23
+82,Intel® Core™ i5-1340P Processor,$353.00 ,Mobile,Intel 7,12,16,4.60 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+83,Intel® Core™ i5-1340PE Processor,$323.00 ,Embedded,Intel 7,12,16,4.50 GHz,,1.80 GHz,12 MB Intel® Smart Cache,,,Q1'23
+84,Intel® Core™ i5-13420H Processor,$342.00 ,Mobile,Intel 7,8,12,4.60 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+85,Intel® Core™ i5-13450HX Processor,$326.00 ,Mobile,Intel 7,10,16,4.60 GHz,,,20 MB Intel® Smart Cache,,,Q1'23
+86,Intel® Core™ i5-1345U Processor,$309.00 ,Mobile,Intel 7,10,12,4.70 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+87,Intel® Core™ i5-1345UE Processor,$312.00 ,Embedded,Intel 7,10,12,4.60 GHz,,1.40 GHz,12 MB Intel® Smart Cache,,15 W,Q1'23
+88,Intel® Core™ i5-13500 Processor,$232.00 - $242.00,Desktop,Intel 7,14,20,4.80 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+89,Intel® Core™ i5-13500E Processor,$235.00 ,Embedded,Intel 7,14,20,4.60 GHz,,2.40 GHz,24 MB Intel® Smart Cache,,65 W,Q1'23
+90,Intel® Core™ i5-13500H Processor,$342.00 ,Mobile,Intel 7,12,16,4.70 GHz,,,18 MB Intel® Smart Cache,,,Q1'23
+91,Intel® Core™ i5-13500H Processor,$342.00 ,Mobile,Intel 7,12,16,4.70 GHz,,,18 MB Intel® Smart Cache,,,Q1'23
+92,Intel® Core™ i5-13500HX Processor,$326.00 ,Mobile,Intel 7,14,20,4.70 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+93,Intel® Core™ i5-13500T Processor,$232.00 ,Desktop,Intel 7,14,20,4.60 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+94,Intel® Core™ i5-13500TE Processor,$235.00 ,Embedded,Intel 7,14,20,4.50 GHz,,1.30 GHz,24 MB Intel® Smart Cache,,35 W,Q1'23
+95,Intel® Core™ i5-13505H Processor,$342.00 ,Mobile,Intel 7,12,16,4.70 GHz,,,18 MB Intel® Smart Cache,,,Q1'23
+96,Intel® Core™ i5-1350P Processor,$320.00 ,Mobile,Intel 7,12,16,4.70 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+97,Intel® Core™ i5-1350PE Processor,$323.00 ,Embedded,Intel 7,12,16,4.60 GHz,,1.80 GHz,12 MB Intel® Smart Cache,,,Q1'23
+98,Intel® Core™ i5-13600 Processor,$255.00 ,Desktop,Intel 7,14,20,5.00 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+99,Intel® Core™ i5-13600H Processor,$311.00 ,Mobile,Intel 7,12,16,4.80 GHz,,,18 MB Intel® Smart Cache,,,Q1'23
+100,Intel® Core™ i5-13600HE Processor,$315.00 ,Embedded,Intel 7,12,16,4.80 GHz,,2.70 GHz,18 MB Intel® Smart Cache,,,Q1'23
+101,Intel® Core™ i5-13600HX Processor,$284.00 ,Mobile,Intel 7,14,20,4.80 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+102,Intel® Core™ i5-13600T Processor,$255.00 ,Desktop,Intel 7,14,20,4.80 GHz,,,24 MB Intel® Smart Cache,,,Q1'23
+103,Intel® Core™ i5-1350PRE Processor,,Embedded,Intel 7,12,16,4.60 GHz,,1.80 GHz,12 MB Intel® Smart Cache,,28 W,Q1'23
+104,Intel® Core™ i5-13600HRE Processor,,Embedded,Intel 7,12,16,4.80 GHz,,2.70 GHz,18 MB Intel® Smart Cache,,45 W,Q1'23
+105,Intel® Core™ i5-13600K Processor,$319.00 - $329.00,Desktop,Intel 7,14,20,5.10 GHz,,,24 MB Intel® Smart Cache,,,Q4'22
+106,Intel® Core™ i5-13600KF Processor,$294.00 - $304.00,Desktop,Intel 7,14,20,5.10 GHz,,,24 MB Intel® Smart Cache,,,Q4'22
+107,Intel® Core™ i3-1305U Processor,$309.00 ,Mobile,Intel 7,5,6,4.50 GHz,,,10 MB Intel® Smart Cache,,,Q1'23
+108,Intel® Core™ i3-13100 Processor,$134.00 - $144.00,Desktop,Intel 7,4,8,4.50 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+109,Intel® Core™ i3-13100E Processor,$137.00 ,Embedded,Intel 7,4,8,4.40 GHz,,3.30 GHz,12 MB Intel® Smart Cache,,60 W,Q1'23
+110,Intel® Core™ i3-13100F Processor,$109.00 - $119.00,Desktop,Intel 7,4,8,4.50 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+111,Intel® Core™ i3-13100T Processor,$134.00 ,Desktop,Intel 7,4,8,4.20 GHz,,,12 MB Intel® Smart Cache,,,Q1'23
+112,Intel® Core™ i3-13100TE Processor,$137.00 ,Embedded,Intel 7,4,8,4.10 GHz,,2.40 GHz,12 MB Intel® Smart Cache,,35 W,Q1'23
+113,Intel® Core™ i3-1315U Processor,$309.00 ,Mobile,Intel 7,6,8,4.50 GHz,,,10 MB Intel® Smart Cache,,,Q1'23
+114,Intel® Core™ i3-1315U Processor,$309.00 ,Mobile,Intel 7,6,8,4.50 GHz,,,10 MB Intel® Smart Cache,,,Q1'23
+115,Intel® Core™ i3-1315UE Processor,$312.00 ,Embedded,Intel 7,6,8,4.50 GHz,,1.20 GHz,10 MB Intel® Smart Cache,,15 W,Q1'23
+116,Intel® Core™ i3-1320PE Processor,$312.00 ,Embedded,Intel 7,8,12,4.50 GHz,,1.70 GHz,12 MB Intel® Smart Cache,,28 W,Q1'23
+117,Intel® Core™ i3-13300HE Processor,$312.00 ,Embedded,Intel 7,8,12,4.60 GHz,,2.10 GHz,12 MB Intel® Smart Cache,,45 W,Q1'23
+118,Intel® Core™ i3-1320PRE Processor,,Embedded,Intel 7,8,12,4.50 GHz,,1.70 GHz,12 MB Intel® Smart Cache,,28 W,Q1'23
+119,Intel® Core™ i3-13300HRE Processor,,Embedded,Intel 7,8,12,4.60 GHz,,2.10 GHz,12 MB Intel® Smart Cache,,45 W,Q1'23
+120,Intel® Core™ i9-12900HX Processor,$668.00 ,Mobile,Intel 7,16,24,5.00 GHz,5.00 GHz,,30 MB Intel® Smart Cache,,,Q2'22
+121,Intel® Core™ i9-12950HX Processor,$590.00 ,Mobile,Intel 7,16,24,5.00 GHz,5.00 GHz,,30 MB Intel® Smart Cache,,,Q2'22
+122,Intel® Core™ i9-12900KS Processor,$813.00 - $823.00,Desktop,Intel 7,16,24,5.50 GHz,5.30 GHz,,30 MB Intel® Smart Cache,,,Q1'22
+123,Intel® Core™ i9-12900 Processor,$538.00 - $568.00,Desktop,Intel 7,16,24,5.10 GHz,5.10 GHz,,30 MB Intel® Smart Cache,,,Q1'22
+124,Intel® Core™ i9-12900E Processor,$544.00 ,Embedded,Intel 7,16,24,5.00 GHz,,,30 MB Intel® Smart Cache,,,Q1'22
+125,Intel® Core™ i9-12900F Processor,$510.00 - $540.00,Desktop,Intel 7,16,24,5.10 GHz,5.10 GHz,,30 MB Intel® Smart Cache,,,Q1'22
+126,Intel® Core™ i9-12900H Processor,$617.00 ,Mobile,Intel 7,14,20,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+127,Intel® Core™ i9-12900HK Processor,$697.00 ,Mobile,Intel 7,14,20,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+128,Intel® Core™ i9-12900T Processor,$538.00 ,Desktop,Intel 7,16,24,4.90 GHz,4.90 GHz,,30 MB Intel® Smart Cache,,,Q1'22
+129,Intel® Core™ i9-12900TE Processor,$544.00 ,Embedded,Intel 7,16,24,4.80 GHz,,,30 MB Intel® Smart Cache,,,Q1'22
+130,Intel® Core™ i9-12900K Processor,$648.00 - $658.00,Desktop,Intel 7,16,24,5.20 GHz,5.20 GHz,,30 MB Intel® Smart Cache,,,Q4'21
+131,Intel® Core™ i9-12900KF Processor,$620.00 - $630.00,Desktop,Intel 7,16,24,5.20 GHz,5.20 GHz,,30 MB Intel® Smart Cache,,,Q4'21
+132,Intel® Core™ i7-1255UL Processor,$399.00 ,Embedded,Intel 7,10,12,4.70 GHz,,1.70 GHz,12 MB Intel® Smart Cache,,15 W,Q3'22
+133,Intel® Core™ i7-1265UL Processor,$426.00 ,Embedded,Intel 7,10,12,4.80 GHz,,1.80 GHz,12 MB Intel® Smart Cache,,15 W,Q3'22
+134,Intel® Core™ i7-12700HL Processor,$430.00 ,Embedded,Intel 7,14,20,4.70 GHz,4.70 GHz,2.30 GHz,24 MB Intel® Smart Cache,,,Q3'22
+135,Intel® Core™ i7-12800HL Processor,$457.00 ,Embedded,Intel 7,14,20,4.80 GHz,4.80 GHz,2.40 GHz,24 MB Intel® Smart Cache,,,Q3'22
+136,Intel® Core™ i7-12650HX Processor,$472.00 ,Mobile,Intel 7,14,20,4.70 GHz,4.70 GHz,,24 MB Intel® Smart Cache,,,Q2'22
+137,Intel® Core™ i7-12800HX Processor,$502.00 ,Mobile,Intel 7,16,24,4.80 GHz,4.80 GHz,,25 MB Intel® Smart Cache,,,Q2'22
+138,Intel® Core™ i7-12850HX Processor,$428.00 ,Mobile,Intel 7,16,24,4.80 GHz,4.80 GHz,,25 MB Intel® Smart Cache,,,Q2'22
+139,Intel® Core™ i7-1265UE Processor,$429.00 ,Embedded,Intel 7,10,12,,,,12 MB Intel® Smart Cache,,,Q1'22
+140,Intel® Core™ i7-1270PE Processor,$441.00 ,Embedded,Intel 7,12,16,,,,18 MB Intel® Smart Cache,,,Q1'22
+141,Intel® Core™ i7-1250U Processor,$469.00 ,Mobile,Intel 7,10,12,4.70 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+142,Intel® Core™ i7-1255U Processor,$469.00 ,Mobile,Intel 7,10,12,4.70 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+143,Intel® Core™ i7-1260P Processor,$480.00 ,Mobile,Intel 7,12,16,4.70 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+144,Intel® Core™ i7-1260U Processor,,Mobile,Intel 7,10,12,4.70 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+145,Intel® Core™ i7-1265U Processor,$426.00 ,Mobile,Intel 7,10,12,4.80 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+146,Intel® Core™ i7-1270P Processor,$438.00 ,Mobile,Intel 7,12,16,4.80 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+147,Intel® Core™ i7-1280P Processor,$482.00 ,Mobile,Intel 7,14,20,4.80 GHz,4.80 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+148,Intel® Core™ i7-12650H Processor,$502.00 ,Mobile,Intel 7,10,16,4.70 GHz,4.70 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+149,Intel® Core™ i7-12700 Processor,$373.00 - $383.00,Desktop,Intel 7,12,20,4.90 GHz,4.90 GHz,,25 MB Intel® Smart Cache,,,Q1'22
+150,Intel® Core™ i7-12700E Processor,$378.00 ,Embedded,Intel 7,12,20,4.80 GHz,,,25 MB Intel® Smart Cache,,,Q1'22
+151,Intel® Core™ i7-12700F Processor,$345.00 - $355.00,Desktop,Intel 7,12,20,4.90 GHz,4.90 GHz,,25 MB Intel® Smart Cache,,,Q1'22
+152,Intel® Core™ i7-12700H Processor,$502.00 ,Mobile,Intel 7,14,20,4.70 GHz,4.70 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+153,Intel® Core™ i7-12700T Processor,$373.00 ,Desktop,Intel 7,12,20,4.70 GHz,4.70 GHz,,25 MB Intel® Smart Cache,,,Q1'22
+154,Intel® Core™ i7-12700TE Processor,$378.00 ,Embedded,Intel 7,12,20,4.60 GHz,,,25 MB Intel® Smart Cache,,,Q1'22
+155,Intel® Core™ i7-12800H Processor,$457.00 ,Mobile,Intel 7,14,20,4.80 GHz,4.80 GHz,,24 MB Intel® Smart Cache,,,Q1'22
+156,Intel® Core™ i7-12800HE Processor,$460.00 ,Embedded,Intel 7,14,20,,,2.40 GHz,24 MB Intel® Smart Cache,,,Q1'22
+157,Intel® Core™ i7-12700K Processor,$450.00 - $460.00,Desktop,Intel 7,12,20,5.00 GHz,5.00 GHz,,25 MB Intel® Smart Cache,,,Q4'21
+158,Intel® Core™ i7-12700KF Processor,$422.00 - $432.00,Desktop,Intel 7,12,20,5.00 GHz,5.00 GHz,,25 MB Intel® Smart Cache,,,Q4'21
+159,Intel® Core™ i5-1235UL Processor,$277.00 ,Embedded,Intel 7,10,12,4.40 GHz,,1.30 GHz,12 MB Intel® Smart Cache,,15 W,Q3'22
+160,Intel® Core™ i5-1245UL Processor,$309.00 ,Embedded,Intel 7,10,12,4.40 GHz,,1.60 GHz,12 MB Intel® Smart Cache,,15 W,Q3'22
+161,Intel® Core™ i5-12500HL Processor,$279.00 ,Embedded,Intel 7,12,16,4.50 GHz,4.50 GHz,2.50 GHz,18 MB Intel® Smart Cache,,,Q3'22
+162,Intel® Core™ i5-12600HL Processor,$311.00 ,Embedded,Intel 7,12,16,4.50 GHz,4.50 GHz,2.70 GHz,18 MB Intel® Smart Cache,,,Q3'22
+163,Intel® Core™ i5-12450HX Processor,$312.00 ,Mobile,Intel 7,8,12,4.40 GHz,4.40 GHz,,12 MB Intel® Smart Cache,,,Q2'22
+164,Intel® Core™ i5-12600HX Processor,$284.00 ,Mobile,Intel 7,12,16,4.60 GHz,4.60 GHz,,18 MB Intel® Smart Cache,,,Q2'22
+165,Intel® Core™ i5-1245UE Processor,$312.00 ,Embedded,Intel 7,10,12,,,,12 MB Intel® Smart Cache,,,Q1'22
+166,Intel® Core™ i5-1250PE Processor,$323.00 ,Embedded,Intel 7,12,16,,,,12 MB Intel® Smart Cache,,,Q1'22
+167,Intel® Core™ i5-1230U Processor,$340.00 ,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+168,Intel® Core™ i5-1235U Processor,$340.00 ,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+169,Intel® Core™ i5-1235U Processor,$340.00 ,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+170,Intel® Core™ i5-1240P Processor,$353.00 ,Mobile,Intel 7,12,16,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+171,Intel® Core™ i5-1240U Processor,,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+172,Intel® Core™ i5-1245U Processor,$309.00 ,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+173,Intel® Core™ i5-1250P Processor,$320.00 ,Mobile,Intel 7,12,16,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+174,Intel® Core™ i5-12400 Processor,$211.00 - $221.00,Desktop,Intel 7,6,12,4.40 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+175,Intel® Core™ i5-12400F Processor,$184.00 - $194.00,Desktop,Intel 7,6,12,4.40 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+176,Intel® Core™ i5-12400T Processor,$211.00 ,Desktop,Intel 7,6,12,4.20 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+177,Intel® Core™ i5-12450H Processor,$342.00 ,Mobile,Intel 7,8,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+178,Intel® Core™ i5-12500 Processor,$222.00 - $232.00,Desktop,Intel 7,6,12,4.60 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+179,Intel® Core™ i5-12500E Processor,$225.00 ,Embedded,Intel 7,6,12,4.50 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+180,Intel® Core™ i5-12500H Processor,$342.00 ,Mobile,Intel 7,12,16,4.50 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+181,Intel® Core™ i5-12500T Processor,$222.00 ,Desktop,Intel 7,6,12,4.40 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+182,Intel® Core™ i5-12500TE Processor,$225.00 ,Embedded,Intel 7,6,12,4.30 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+183,Intel® Core™ i5-12600 Processor,$245.00 - $255.00,Desktop,Intel 7,6,12,4.80 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+184,Intel® Core™ i5-12600H Processor,$311.00 ,Mobile,Intel 7,12,16,4.50 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+185,Intel® Core™ i5-12600HE Processor,$315.00 ,Embedded,Intel 7,12,16,,,2.50 GHz,18 MB Intel® Smart Cache,,,Q1'22
+186,Intel® Core™ i5-12600T Processor,$245.00 ,Desktop,Intel 7,6,12,4.60 GHz,,,18 MB Intel® Smart Cache,,,Q1'22
+187,Intel® Core™ i5-12600K Processor,$318.00 - $328.00,Desktop,Intel 7,10,16,4.90 GHz,,,20 MB Intel® Smart Cache,,,Q4'21
+188,Intel® Core™ i5-12600KF Processor,$290.00 - $300.00,Desktop,Intel 7,10,16,4.90 GHz,,,20 MB Intel® Smart Cache,,,Q4'21
+189,Intel® Core™ i3-1215UL Processor,$285.00 ,Embedded,Intel 7,6,8,4.40 GHz,,1.20 GHz,10 MB Intel® Smart Cache,,15 W,Q3'22
+190,Intel® Core™ i3-12300HL Processor,,Embedded,Intel 7,8,12,4.40 GHz,4.40 GHz,2.00 GHz,12 MB Intel® Smart Cache,,,Q3'22
+191,Intel® Core™ i3-1215UE Processor,$285.00 ,Embedded,Intel 7,6,8,,,,10 MB Intel® Smart Cache,,,Q1'22
+192,Intel® Core™ i3-1220PE Processor,$295.00 ,Embedded,Intel 7,8,12,,,,12 MB Intel® Smart Cache,,,Q1'22
+193,Intel® Core™ i3-1210U Processor,,Mobile,Intel 7,6,8,4.40 GHz,,,10 MB Intel® Smart Cache,,,Q1'22
+194,Intel® Core™ i3-1215U Processor,$309.00 ,Mobile,Intel 7,6,8,4.40 GHz,,,10 MB Intel® Smart Cache,,,Q1'22
+195,Intel® Core™ i3-1215U Processor,$309.00 ,Mobile,Intel 7,6,8,4.40 GHz,,,10 MB Intel® Smart Cache,,,Q1'22
+196,Intel® Core™ i3-1220P Processor,$309.00 ,Mobile,Intel 7,10,12,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+197,Intel® Core™ i3-12100 Processor,$134.00 - $144.00,Desktop,Intel 7,4,8,4.30 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+198,Intel® Core™ i3-12100E Processor,$138.00 ,Embedded,Intel 7,4,8,4.20 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+199,Intel® Core™ i3-12100F Processor,$107.00 - $117.00,Desktop,Intel 7,4,8,4.30 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+200,Intel® Core™ i3-12100T Processor,$134.00 ,Desktop,Intel 7,4,8,4.10 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+201,Intel® Core™ i3-12100TE Processor,$138.00 ,Embedded,Intel 7,4,8,4.00 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+202,Intel® Core™ i3-12300 Processor,$157.00 ,Desktop,Intel 7,4,8,4.40 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+203,Intel® Core™ i3-12300HE Processor,$306.00 ,Embedded,Intel 7,8,12,,,1.90 GHz,12 MB Intel® Smart Cache,,,Q1'22
+204,Intel® Core™ i3-12300T Processor,$157.00 ,Desktop,Intel 7,4,8,4.20 GHz,,,12 MB Intel® Smart Cache,,,Q1'22
+205,Intel® Core™ i3-N300 Processor,$309.00 ,Mobile,Intel 7,8,8,3.80 GHz,,,6 MB Intel® Smart Cache,,7 W,Q1'23
+206,Intel® Core™ i3-N305 Processor,$309.00 ,Mobile,Intel 7,8,8,3.80 GHz,,,6 MB Intel® Smart Cache,,15 W,Q1'23
+207,Intel® Core™ i9-11900H Processor,$599.00 ,Mobile,10 nm SuperFin,8,16,4.90 GHz,4.90 GHz,,24 MB Intel® Smart Cache,8 GT/s,,Q2'21
+208,Intel® Core™ i9-11950H Processor,$556.00 ,Mobile,10 nm SuperFin,8,16,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,8 GT/s,,Q2'21
+209,Intel® Core™ i9-11980HK Processor,$643.00 ,Mobile,10 nm SuperFin,8,16,5.00 GHz,5.00 GHz,,24 MB Intel® Smart Cache,8 GT/s,,Q2'21
+210,Intel® Core™ i9-11900 Processor,$483.00 - $493.00,Desktop,14 nm,8,16,5.20 GHz,5.10 GHz,2.50 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+211,Intel® Core™ i9-11900F Processor,$464.00 - $474.00,Desktop,14 nm,8,16,5.20 GHz,5.10 GHz,2.50 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+212,Intel® Core™ i9-11900K Processor,$593.00 - $603.00,Desktop,14 nm,8,16,5.30 GHz,5.20 GHz,3.50 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+213,Intel® Core™ i9-11900KF Processor,$564.00 - $574.00,Desktop,14 nm,8,16,5.30 GHz,5.20 GHz,3.50 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+214,Intel® Core™ i9-11900T Processor,$483.00 ,Desktop,14 nm,8,16,4.90 GHz,4.90 GHz,1.50 GHz,16 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+215,Intel® Core™ i7-11850HE Processor,$400.00 ,Embedded,10 nm SuperFin,8,16,4.70 GHz,,,24 MB Intel® Smart Cache,,,Q3'21
+216,Intel® Core™ i7-11600H Processor,$435.00 ,Mobile,10 nm SuperFin,6,12,4.60 GHz,,,18 MB Intel® Smart Cache,8 GT/s,,Q3'21
+217,Intel® Core™ i7-11390H Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,5.00 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q2'21
+218,Intel® Core™ i7-1195G7 Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,5.00 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q2'21
+219,Intel® Core™ i7-1195G7 Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,5.00 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q2'21
+220,Intel® Core™ i7-11800H Processor,$435.00 ,Mobile,10 nm SuperFin,8,16,4.60 GHz,,,24 MB Intel® Smart Cache,8 GT/s,,Q2'21
+221,Intel® Core™ i7-11850H Processor,$395.00 ,Mobile,10 nm SuperFin,8,16,4.80 GHz,,,24 MB Intel® Smart Cache,8 GT/s,,Q2'21
+222,Intel® Core™ i7-11700 Processor,$355.00 - $365.00,Desktop,14 nm,8,16,4.90 GHz,4.90 GHz,2.50 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+223,Intel® Core™ i7-11700F Processor,$328.00 - $338.00,Desktop,14 nm,8,16,4.90 GHz,4.90 GHz,2.50 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+224,Intel® Core™ i7-11700K Processor,$439.00 - $449.00,Desktop,14 nm,8,16,5.00 GHz,5.00 GHz,3.60 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+225,Intel® Core™ i7-11700KF Processor,$411.00 - $421.00,Desktop,14 nm,8,16,5.00 GHz,5.00 GHz,3.60 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+226,Intel® Core™ i7-11700T Processor,$355.00 ,Desktop,14 nm,8,16,4.60 GHz,4.60 GHz,1.40 GHz,16 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+227,Intel® Core™ i7-11370H Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,4.80 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q1'21
+228,Intel® Core™ i7-11375H Processor,$530.00 ,Mobile,10 nm SuperFin,4,8,5.00 GHz,5.00 GHz,,12 MB Intel® Smart Cache,4 GT/s,,Q1'21
+229,Intel® Core™ i7-1180G7 Processor,$426.00 ,Mobile,10 nm SuperFin,4,8,4.60 GHz,,,12 MB Intel® Smart Cache,2 GT/s,,Q1'21
+230,Intel® Core™ i7-1185G7E Processor,$431.00 ,Embedded,10 nm SuperFin,4,8,4.40 GHz,,1.80 GHz,12 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+231,Intel® Core™ i7-1185GRE Processor,$490.00 ,Embedded,10 nm SuperFin,4,8,4.40 GHz,,1.80 GHz,12 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+232,Intel® Core™ i7-1160G7 Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,4.40 GHz,,,12 MB Intel® Smart Cache,2 GT/s,,Q3'20
+233,Intel® Core™ i7-1165G7 Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,4.70 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q3'20
+234,Intel® Core™ i7-1165G7 Processor,$469.00 ,Mobile,10 nm SuperFin,4,8,4.70 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q3'20
+235,Intel® Core™ i7-1185G7 Processor,$173.00 - $184.00,Mobile,10 nm SuperFin,4,8,4.80 GHz,,,12 MB Intel® Smart Cache,4 GT/s,,Q3'20
+236,Intel® Core™ i5-11500HE Processor,$256.00 ,Embedded,10 nm SuperFin,6,12,4.50 GHz,,,12 MB Intel® Smart Cache,,,Q3'21
+237,Intel® Core™ i5-11320H Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.50 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q2'21
+238,Intel® Core™ i5-1155G7 Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.50 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q2'21
+239,Intel® Core™ i5-1155G7 Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.50 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q2'21
+240,Intel® Core™ i5-11260H Processor,$275.00 ,Mobile,10 nm SuperFin,6,12,4.40 GHz,,,12 MB Intel® Smart Cache,8 GT/s,,Q2'21
+241,Intel® Core™ i5-11400H Processor,$275.00 ,Mobile,10 nm SuperFin,6,12,4.50 GHz,,,12 MB Intel® Smart Cache,8 GT/s,,Q2'21
+242,Intel® Core™ i5-11500H Processor,$250.00 ,Mobile,10 nm SuperFin,6,12,4.60 GHz,,,12 MB Intel® Smart Cache,8 GT/s,,Q2'21
+243,Intel® Core™ i5-11400 Processor,$200.00 - $210.00,Desktop,14 nm,6,12,4.40 GHz,,2.60 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+244,Intel® Core™ i5-11400F Processor,$173.00 - $183.00,Desktop,14 nm,6,12,4.40 GHz,,2.60 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+245,Intel® Core™ i5-11400T Processor,$200.00 ,Desktop,14 nm,6,12,3.70 GHz,,1.30 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+246,Intel® Core™ i5-11500 Processor,$211.00 - $221.00,Desktop,14 nm,6,12,4.60 GHz,,2.70 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+247,Intel® Core™ i5-11500T Processor,$211.00 ,Desktop,14 nm,6,12,3.90 GHz,,1.50 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+248,Intel® Core™ i5-11600 Processor,$234.00 - $244.00,Desktop,14 nm,6,12,4.80 GHz,,2.80 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+249,Intel® Core™ i5-11600K Processor,$288.00 - $298.00,Desktop,14 nm,6,12,4.90 GHz,,3.90 GHz,12 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+250,Intel® Core™ i5-11600KF Processor,$261.00 - $271.00,Desktop,14 nm,6,12,4.90 GHz,,3.90 GHz,12 MB Intel® Smart Cache,8 GT/s,125 W,Q1'21
+251,Intel® Core™ i5-11600T Processor,$234.00 ,Desktop,14 nm,6,12,4.10 GHz,,1.70 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+252,Intel® Core™ i5-11300H Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.40 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q1'21
+253,Intel® Core™ i5-1140G7 Processor,$309.00 ,Mobile,10 nm SuperFin,4,8,4.20 GHz,,,8 MB Intel® Smart Cache,2 GT/s,,Q1'21
+254,Intel® Core™ i5-1145G7 Processor,$309.00 ,Mobile,10 nm SuperFin,4,8,4.40 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q1'21
+255,Intel® Core™ i5-1145G7E Processor,$312.00 ,Embedded,10 nm SuperFin,4,8,4.10 GHz,,1.50 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+256,Intel® Core™ i5-1145GRE Processor,$362.00 ,Embedded,10 nm SuperFin,4,8,4.10 GHz,,1.50 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+257,Intel® Core™ i5-1130G7 Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.00 GHz,,,8 MB Intel® Smart Cache,2 GT/s,,Q3'20
+258,Intel® Core™ i5-1135G7 Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.20 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q3'20
+259,Intel® Core™ i5-1135G7 Processor,$340.00 ,Mobile,10 nm SuperFin,4,8,4.20 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q3'20
+260,Intel® Core™ i3-11100HE Processor,$233.00 ,Embedded,10 nm SuperFin,4,8,4.40 GHz,,,8 MB Intel® Smart Cache,,,Q3'21
+261,Intel® Core™ i3-1115G4E Processor,$285.00 ,Embedded,10 nm SuperFin,2,4,3.90 GHz,,2.20 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+262,Intel® Core™ i3-1115GRE Processor,$338.00 ,Embedded,10 nm SuperFin,2,4,3.90 GHz,,2.20 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'20
+263,Intel® Core™ i3-1120G4 Processor,$309.00 ,Mobile,10 nm SuperFin,4,8,3.50 GHz,,,8 MB Intel® Smart Cache,2 GT/s,,Q1'21
+264,Intel® Core™ i3-1125G4 Processor,$309.00 ,Mobile,10 nm SuperFin,4,8,3.70 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q1'21
+265,Intel® Core™ i3-1125G4 Processor,$309.00 ,Mobile,10 nm SuperFin,4,8,3.70 GHz,,,8 MB Intel® Smart Cache,4 GT/s,,Q1'21
+266,Intel® Core™ i3-1110G4 Processor,$309.00 ,Mobile,10 nm SuperFin,2,4,3.90 GHz,,,6 MB Intel® Smart Cache,2 GT/s,,Q3'20
+267,Intel® Core™ i3-1115G4 Processor,$309.00 ,Mobile,10 nm SuperFin,2,4,4.10 GHz,,,6 MB Intel® Smart Cache,4 GT/s,,Q3'20
+268,Intel® Core™ i3-1115G4 Processor,$309.00 ,Mobile,10 nm SuperFin,2,4,4.10 GHz,,,6 MB Intel® Smart Cache,4 GT/s,,Q3'20
+269,Intel® Core™ i9-10850K Processor,$464.00 - $508.00,Desktop,14 nm,10,20,5.20 GHz,5.10 GHz,3.60 GHz,20 MB Intel® Smart Cache,8 GT/s,125 W,Q3'20
+270,Intel® Core™ i9-10885H Processor,$556.00 ,Mobile,14 nm,8,16,5.30 GHz,5.10 GHz,2.40 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+271,Intel® Core™ i9-10900 Processor,$483.00 - $493.00,Desktop,14 nm,10,20,5.20 GHz,5.10 GHz,2.80 GHz,20 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+272,Intel® Core™ i9-10900E Processor,$488.00 ,Embedded,14 nm,10,20,4.70 GHz,4.70 GHz,2.80 GHz,20 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+273,Intel® Core™ i9-10900F Processor,$464.00 - $474.00,Desktop,14 nm,10,20,5.20 GHz,5.10 GHz,2.80 GHz,20 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+274,Intel® Core™ i9-10900K Processor,$537.00 - $547.00,Desktop,14 nm,10,20,5.30 GHz,5.20 GHz,3.70 GHz,20 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+275,Intel® Core™ i9-10900KF Processor,$509.00 - $519.00,Desktop,14 nm,10,20,5.30 GHz,5.20 GHz,3.70 GHz,20 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+276,Intel® Core™ i9-10900T Processor,$483.00 ,Desktop,14 nm,10,20,4.60 GHz,4.60 GHz,1.90 GHz,20 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+277,Intel® Core™ i9-10900TE Processor,$488.00 ,Embedded,14 nm,10,20,4.50 GHz,4.50 GHz,1.80 GHz,20 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+278,Intel® Core™ i9-10980HK Processor,$643.00 ,Mobile,14 nm,8,16,5.30 GHz,5.10 GHz,2.40 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+279,Intel® Core™ i7-10870H Processor,$460.00 ,Mobile,14 nm,8,16,5.00 GHz,4.80 GHz,2.20 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q3'20
+280,Intel® Core™ i7-10610U Processor,$409.00 ,Mobile,14 nm,4,8,4.90 GHz,,1.80 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q2'20
+281,Intel® Core™ i7-10810U Processor,$443.00 ,Mobile,14 nm,6,12,4.90 GHz,,1.10 GHz,12 MB Intel® Smart Cache,4 GT/s,15 W,Q2'20
+282,Intel® Core™ i7-10700 Processor,$355.00 - $365.00,Desktop,14 nm,8,16,4.80 GHz,4.80 GHz,2.90 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+283,Intel® Core™ i7-10700E Processor,$363.00 ,Embedded,14 nm,8,16,4.50 GHz,4.50 GHz,2.90 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+284,Intel® Core™ i7-10700F Processor,$328.00 - $338.00,Desktop,14 nm,8,16,4.80 GHz,4.80 GHz,2.90 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+285,Intel® Core™ i7-10700K Processor,$411.00 - $421.00,Desktop,14 nm,8,16,5.10 GHz,5.10 GHz,3.80 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+286,Intel® Core™ i7-10700KF Processor,$384.00 - $394.00,Desktop,14 nm,8,16,5.10 GHz,5.10 GHz,3.80 GHz,16 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+287,Intel® Core™ i7-10700T Processor,$355.00 ,Desktop,14 nm,8,16,4.50 GHz,4.50 GHz,2.00 GHz,16 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+288,Intel® Core™ i7-10700TE Processor,$363.00 ,Embedded,14 nm,8,16,4.40 GHz,4.40 GHz,2.00 GHz,16 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+289,Intel® Core™ i7-10750H Processor,$435.00 ,Mobile,14 nm,6,12,5.00 GHz,4.80 GHz,2.60 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+290,Intel® Core™ i7-10850H Processor,$395.00 ,Mobile,14 nm,6,12,5.10 GHz,4.90 GHz,2.70 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+291,Intel® Core™ i7-10875H Processor,$450.00 ,Mobile,14 nm,8,16,5.10 GHz,4.90 GHz,2.30 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+292,Intel® Core™ i7-10510U Processor,$450.00 ,Mobile,14 nm,4,8,4.90 GHz,,1.80 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+293,Intel® Core™ i7-10510Y Processor,,Mobile,14 nm,4,8,4.50 GHz,,1.20 GHz,8 MB Intel® Smart Cache,4 GT/s,7 W,Q3'19
+294,Intel® Core™ i7-10710U Processor,$487.00 ,Mobile,14 nm,6,12,4.70 GHz,,1.10 GHz,12 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+295,Intel® Core™ i7-1065G7 Processor,$469.00 ,Mobile,10 nm,4,8,3.90 GHz,,1.30 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+296,Intel® Core™ i5-10505 Processor,$211.00 ,Desktop,14 nm,6,12,4.60 GHz,,3.20 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+297,Intel® Core™ i5-10500H Processor,$275.00 ,Mobile,14 nm,6,12,4.50 GHz,,2.50 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q4'20
+298,Intel® Core™ i5-10200H Processor,$275.00 ,Mobile,14 nm,4,8,4.10 GHz,,2.40 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q3'20
+299,Intel® Core™ i5-10310U Processor,$297.00 ,Mobile,14 nm,4,8,4.40 GHz,,1.70 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q2'20
+300,Intel® Core™ i5-10400 Processor,$200.00 - $210.00,Desktop,14 nm,6,12,4.30 GHz,,2.90 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+301,Intel® Core™ i5-10400F Processor,$173.00 - $183.00,Desktop,14 nm,6,12,4.30 GHz,,2.90 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+302,Intel® Core™ i5-10400T Processor,$200.00 ,Desktop,14 nm,6,12,3.60 GHz,,2.00 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+303,Intel® Core™ i5-10500 Processor,$211.00 - $221.00,Desktop,14 nm,6,12,4.50 GHz,,3.10 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+304,Intel® Core™ i5-10500E Processor,$214.00 ,Embedded,14 nm,6,12,4.20 GHz,,3.10 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+305,Intel® Core™ i5-10500T Processor,$211.00 ,Desktop,14 nm,6,12,3.80 GHz,,2.30 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+306,Intel® Core™ i5-10500TE Processor,$214.00 ,Embedded,14 nm,6,12,3.70 GHz,,2.30 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+307,Intel® Core™ i5-10600 Processor,$234.00 - $244.00,Desktop,14 nm,6,12,4.80 GHz,,3.30 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+308,Intel® Core™ i5-10600K Processor,$288.00 - $298.00,Desktop,14 nm,6,12,4.80 GHz,,4.10 GHz,12 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+309,Intel® Core™ i5-10600KF Processor,$261.00 - $271.00,Desktop,14 nm,6,12,4.80 GHz,,4.10 GHz,12 MB Intel® Smart Cache,8 GT/s,125 W,Q2'20
+310,Intel® Core™ i5-10600T Processor,$234.00 ,Desktop,14 nm,6,12,4.00 GHz,,2.40 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+311,Intel® Core™ i5-10300H Processor,$275.00 ,Mobile,14 nm,4,8,4.50 GHz,,2.50 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+312,Intel® Core™ i5-10400H Processor,,Mobile,14 nm,4,8,4.60 GHz,,2.60 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'20
+313,Intel® Core™ i5-10210U Processor,$328.00 ,Mobile,14 nm,4,8,4.20 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+314,Intel® Core™ i5-10210Y Processor,$321.00 ,Mobile,14 nm,4,8,4.00 GHz,,1.00 GHz,6 MB Intel® Smart Cache,4 GT/s,7 W,Q3'19
+315,Intel® Core™ i5-10310Y Processor,,Mobile,14 nm,4,8,4.10 GHz,,1.10 GHz,6 MB Intel® Smart Cache,4 GT/s,7 W,Q3'19
+316,Intel® Core™ i5-1035G1 Processor,$297.00 - $328.00,Mobile,10 nm,4,8,3.60 GHz,,1.00 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+317,Intel® Core™ i5-1035G4 Processor,$340.00 ,Mobile,10 nm,4,8,3.70 GHz,,1.10 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+318,Intel® Core™ i5-1035G7 Processor,$353.00 ,Mobile,10 nm,4,8,3.70 GHz,,1.20 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+319,Intel® Core™ i3-10105 Processor,$134.00 - $144.00,Desktop,14 nm,4,8,4.40 GHz,,3.70 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+320,Intel® Core™ i3-10105F Processor,$107.00 - $117.00,Desktop,14 nm,4,8,4.40 GHz,,3.70 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+321,Intel® Core™ i3-10105T Processor,$134.00 ,Desktop,14 nm,4,8,3.90 GHz,,3.00 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+322,Intel® Core™ i3-10305 Processor,$157.00 - $167.00,Desktop,14 nm,4,8,4.50 GHz,,3.80 GHz,8 MB Intel® Smart Cache,8 GT/s,65 W,Q1'21
+323,Intel® Core™ i3-10305T Processor,$157.00 ,Desktop,14 nm,4,8,4.00 GHz,,3.00 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q1'21
+324,,,,,,,,,,,,,
+325,Intel® Core™ i3-10100Y Processor,,Mobile,14 nm,2,4,3.90 GHz,,1.30 GHz,4 MB Intel® Smart Cache,4 GT/s,5 W,Q1'21
+326,Intel® Core™ i3-10100F Processor,$107.00 - $117.00,Desktop,14 nm,4,8,4.30 GHz,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q4'20
+327,Intel® Core™ i3-10100 Processor,$134.00 - $144.00,Desktop,14 nm,4,8,4.30 GHz,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+328,Intel® Core™ i3-10100E Processor,$138.00 ,Embedded,14 nm,4,8,3.80 GHz,,3.20 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+329,Intel® Core™ i3-10100T Processor,$134.00 ,Desktop,14 nm,4,8,3.80 GHz,,3.00 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+330,Intel® Core™ i3-10100TE Processor,$138.00 ,Embedded,14 nm,4,8,3.60 GHz,,2.30 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+331,Intel® Core™ i3-10300 Processor,$157.00 - $167.00,Desktop,14 nm,4,8,4.40 GHz,,3.70 GHz,8 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+332,Intel® Core™ i3-10300T Processor,$157.00 ,Desktop,14 nm,4,8,3.90 GHz,,3.00 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q2'20
+333,Intel® Core™ i3-10320 Processor,$169.00 - $179.00,Desktop,14 nm,4,8,4.60 GHz,,3.80 GHz,8 MB Intel® Smart Cache,8 GT/s,65 W,Q2'20
+334,Intel® Core™ i3-10110U Processor,$309.00 ,Mobile,14 nm,2,4,4.10 GHz,,2.10 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+335,Intel® Core™ i3-10110Y Processor,$316.00 ,Mobile,14 nm,2,4,4.00 GHz,,1.00 GHz,4 MB Intel® Smart Cache,4 GT/s,7 W,Q3'19
+336,Intel® Core™ i3-1005G1 Processor,$309.00 ,Mobile,10 nm,2,4,3.40 GHz,,1.20 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+337,Intel® Core™ i9-9900KS Processor,$524.00 ,Desktop,14 nm,8,16,5.00 GHz,,4.00 GHz,16 MB Intel® Smart Cache,8 GT/s,127 W,Q4'19
+338,Intel® Core™ i9-9880H Processor,$556.00 ,Mobile,14 nm,8,16,4.80 GHz,,2.30 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+339,Intel® Core™ i9-9900 Processor,$439.00 - $449.00,Desktop,14 nm,8,16,5.00 GHz,,3.10 GHz,16 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+340,Intel® Core™ i9-9900T Processor,$439.00 ,Desktop,14 nm,8,16,4.40 GHz,,2.10 GHz,16 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+341,Intel® Core™ i9-9980HK Processor,$583.00 ,Mobile,14 nm,8,16,5.00 GHz,,2.40 GHz,16 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+342,Intel® Core™ i9-9900KF Processor,$463.00 ,Desktop,14 nm,8,16,5.00 GHz,,3.60 GHz,16 MB Intel® Smart Cache,8 GT/s,95 W,Q1'19
+343,Intel® Core™ i9-9900K Processor,$488.00 - $499.00,Desktop,14 nm,8,16,5.00 GHz,,3.60 GHz,16 MB Intel® Smart Cache,8 GT/s,95 W,Q4'18
+344,Intel® Core™ i7-9700E Processor,$323.00 ,Embedded,14 nm,8,8,4.40 GHz,,2.60 GHz,12 MB,8 GT/s,65 W,Q2'19
+345,Intel® Core™ i7-9700TE Processor,$323.00 ,Embedded,14 nm,8,8,3.80 GHz,,1.80 GHz,12 MB,8 GT/s,35 W,Q2'19
+346,Intel® Core™ i7-9850HE Processor,$395.00 ,Embedded,14 nm,6,12,4.40 GHz,,2.70 GHz,9 MB,8 GT/s,45 W,Q2'19
+347,Intel® Core™ i7-9850HL Processor,$395.00 ,Embedded,14 nm,6,12,4.10 GHz,,1.90 GHz,9 MB,8 GT/s,25 W,Q2'19
+348,Intel® Core™ i7-9700 Processor,$323.00 - $333.00,Desktop,14 nm,8,8,4.70 GHz,,3.00 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+349,Intel® Core™ i7-9700F Processor,$298.00 - $308.00,Desktop,14 nm,8,8,4.70 GHz,,3.00 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+350,Intel® Core™ i7-9700T Processor,$323.00 ,Desktop,14 nm,8,8,4.30 GHz,,2.00 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+351,Intel® Core™ i7-9750H Processor,,Mobile,14 nm,6,12,4.50 GHz,,2.60 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+352,Intel® Core™ i7-9750HF Processor,,Mobile,14 nm,6,12,4.50 GHz,,2.60 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+353,Intel® Core™ i7-9850H Processor,,Mobile,14 nm,6,12,4.60 GHz,,2.60 GHz,12 MB,8 GT/s,45 W,Q2'19
+354,Intel® Core™ i7-9700KF Processor,$349.00 ,Desktop,14 nm,8,8,4.90 GHz,,3.60 GHz,12 MB Intel® Smart Cache,8 GT/s,95 W,Q1'19
+355,Intel® Core™ i7-9700K Processor,$374.00 - $385.00,Desktop,14 nm,8,8,4.90 GHz,,3.60 GHz,12 MB Intel® Smart Cache,8 GT/s,95 W,Q4'18
+356,Intel® Core™ i5-9500E Processor,$192.00 ,Embedded,14 nm,6,6,4.20 GHz,,3.00 GHz,9 MB,8 GT/s,65 W,Q2'19
+357,Intel® Core™ i5-9300H Processor,,Mobile,14 nm,4,8,4.10 GHz,,2.40 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+358,Intel® Core™ i5-9400H Processor,,Mobile,14 nm,4,8,4.30 GHz,,2.50 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'19
+359,Intel® Core™ i5-9400T Processor,$182.00 ,Desktop,14 nm,6,6,3.40 GHz,,1.80 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+360,Intel® Core™ i5-9500 Processor,$192.00 - $202.00,Desktop,14 nm,6,6,4.40 GHz,,3.00 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+361,Intel® Core™ i5-9500F Processor,$167.00 - $177.00,Desktop,14 nm,6,6,4.40 GHz,,3.00 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+362,Intel® Core™ i5-9500T Processor,$192.00 ,Desktop,14 nm,6,6,3.70 GHz,,2.20 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+363,Intel® Core™ i5-9600 Processor,$213.00 - $224.00,Desktop,14 nm,6,6,4.60 GHz,,3.10 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+364,Intel® Core™ i5-9600T Processor,$213.00 ,Desktop,14 nm,6,6,3.90 GHz,,2.30 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+365,Intel® Core™ i5-9300HF Processor,,Mobile,14 nm,4,8,4.10 GHz,,2.40 GHz,8 MB Intel® Smart Cache,8 GT/s DMI,45 W,Q2'19
+366,Intel® Core™ i5-9400 Processor,$182.00 ,Desktop,14 nm,6,6,4.10 GHz,,2.90 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q1'19
+367,Intel® Core™ i5-9400F Processor,$157.00 ,Desktop,14 nm,6,6,4.10 GHz,,2.90 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q1'19
+368,Intel® Core™ i5-9600KF Processor,$237.00 ,Desktop,14 nm,6,6,4.60 GHz,,3.70 GHz,9 MB Intel® Smart Cache,8 GT/s,95 W,Q1'19
+369,Intel® Core™ i5-9600K Processor,$262.00 - $272.00,Desktop,14 nm,6,6,4.60 GHz,,3.70 GHz,9 MB Intel® Smart Cache,8 GT/s,95 W,Q4'18
+370,Intel® Core™ i5-9500TE Processor,$192.00 ,Embedded,14 nm,6,6,3.60 GHz,,2.20 GHz,9 MB,8 GT/s,35 W,Q4'17
+371,Intel® Core™ i3-9100E Processor,$122.00 ,Embedded,14 nm,4,4,3.70 GHz,,3.10 GHz,6 MB,8 GT/s,65 W,Q2'19
+372,Intel® Core™ i3-9100HL Processor,$225.00 ,Embedded,14 nm,4,4,2.90 GHz,,1.60 GHz,6 MB,8 GT/s,25 W,Q2'19
+373,Intel® Core™ i3-9100TE Processor,$122.00 ,Embedded,14 nm,4,4,3.20 GHz,,2.20 GHz,6 MB,8 GT/s,35 W,Q2'19
+374,Intel® Core™ i3-9100 Processor,$122.00 ,Desktop,14 nm,4,4,4.20 GHz,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+375,Intel® Core™ i3-9100F Processor,$97.00 ,Desktop,14 nm,4,4,4.20 GHz,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q2'19
+376,Intel® Core™ i3-9100T Processor,$122.00 ,Desktop,14 nm,4,4,3.70 GHz,,3.10 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+377,Intel® Core™ i3-9300 Processor,$152.00 ,Desktop,14 nm,4,4,4.30 GHz,,3.70 GHz,8 MB Intel® Smart Cache,8 GT/s,62 W,Q2'19
+378,Intel® Core™ i3-9300T Processor,$143.00 ,Desktop,14 nm,4,4,3.80 GHz,,3.20 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q2'19
+379,Intel® Core™ i3-9320 Processor,$154.00 - $162.00,Desktop,14 nm,4,4,4.40 GHz,,3.70 GHz,8 MB Intel® Smart Cache,8 GT/s,62 W,Q2'19
+380,Intel® Core™ i3-9350K Processor,$173.00 - $184.00,Desktop,14 nm,4,4,4.60 GHz,,4.00 GHz,8 MB Intel® Smart Cache,8 GT/s,91 W,Q2'19
+381,Intel® Core™ i3-9350KF Processor,$159.00 ,Desktop,14 nm,4,4,4.60 GHz,,4.00 GHz,8 MB Intel® Smart Cache,8 GT/s,91 W,Q1'19
+382,Intel® Core™ i9-8950HK Processor,$583.00 ,Mobile,14 nm,6,12,4.80 GHz,,2.90 GHz,12 MB Intel® Smart Cache,8 GT/s,45 W,Q2'18
+383,Intel® Core™ i7-8557U Processor,$431.00 ,Mobile,14 nm,4,8,4.50 GHz,,1.70 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+384,Intel® Core™ i7-8569U Processor,$431.00 ,Mobile,14 nm,4,8,4.70 GHz,,2.80 GHz,8 MB Intel® Smart Cache,4 GT/s,28 W,Q2'19
+385,Intel® Core™ i7-8665U Processor,,Mobile,14 nm,4,8,4.80 GHz,,1.90 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q2'19
+386,Intel® Core™ i7-8665UE Processor,$409.00 ,Embedded,14 nm,4,8,4.40 GHz,,1.70 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+387,Intel® Core™ i7-8500Y Processor,,Mobile,14 nm,2,4,4.20 GHz,,1.50 GHz,4 MB Intel® Smart Cache,4 GT/s,5 W,Q1'19
+388,Intel® Core™ i7-8565U Processor,$409.00 ,Mobile,14 nm,4,8,4.60 GHz,,1.80 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+389,Intel® Core™ i7-8706G Processor with Radeon™ Pro WX Vega M GL graphics,,Mobile,14 nm,4,8,4.10 GHz,,3.10 GHz,8 MB,8 GT/s,,Q3'18
+390,Intel® Core™ i7-8086K Processor,,Desktop,14 nm,6,12,5.00 GHz,,4.00 GHz,12 MB Intel® Smart Cache,8 GT/s,95 W,Q2'18
+391,Intel® Core™ i7-8559U Processor,$431.00 ,Mobile,14 nm,4,8,4.50 GHz,,2.70 GHz,8 MB Intel® Smart Cache,4 GT/s,28 W,Q2'18
+392,"Intel® Core™ i7+8700 Processor (12M Cache, up to 4.60 GHz) includes Intel® Optane™ Memory",,Desktop,14 nm,6,12,4.60 GHz,,3.20 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+393,Intel® Core™ i7-8700B Processor,$303.00 ,Mobile,14 nm,6,12,4.60 GHz,,3.20 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+394,Intel® Core™ i7-8700T Processor,$303.00 ,Desktop,14 nm,6,12,4.00 GHz,,2.40 GHz,12 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+395,Intel® Core™ i7-8750H Processor,$395.00 ,Mobile,14 nm,6,12,4.10 GHz,,2.20 GHz,9 MB Intel® Smart Cache,8 GT/s,45 W,Q2'18
+396,Intel® Core™ i7-8850H Processor,$395.00 ,Mobile,14 nm,6,12,4.30 GHz,,2.60 GHz,9 MB Intel® Smart Cache,8 GT/s,45 W,Q2'18
+397,Intel® Core™ i7-8705G Processor with Radeon™ RX Vega M GL graphics,,Mobile,14 nm,4,8,4.10 GHz,,3.10 GHz,8 MB,8 GT/s,,Q1'18
+398,Intel® Core™ i7-8706G Processor with Radeon™ RX Vega M GL graphics,,Mobile,14 nm,4,8,4.10 GHz,,3.10 GHz,8 MB,8 GT/s,,Q1'18
+399,Intel® Core™ i7-8709G Processor with Radeon™ RX Vega M GH graphics,,Mobile,14 nm,4,8,4.10 GHz,,3.10 GHz,8 MB,8 GT/s,,Q1'18
+400,Intel® Core™ i7-8809G Processor with Radeon™ RX Vega M GH graphics,,Mobile,14 nm,4,8,4.20 GHz,,3.10 GHz,8 MB,8 GT/s,,Q1'18
+401,Intel® Core™ i7-8700 Processor,$303.00 ,Desktop,14 nm,6,12,4.60 GHz,,3.20 GHz,12 MB Intel® Smart Cache,8 GT/s,65 W,Q4'17
+402,Intel® Core™ i7-8700K Processor,$359.00 ,Desktop,14 nm,6,12,4.70 GHz,,3.70 GHz,12 MB Intel® Smart Cache,8 GT/s,95 W,Q4'17
+403,Intel® Core™ i7-8650U Processor,$409.00 ,Mobile,14 nm,4,8,4.20 GHz,,1.90 GHz,8 MB Intel® Smart Cache,4 GT/s,15 W,Q3'17
+404,Intel® Core™ i5-8260U Processor,,Mobile,14 nm,4,8,3.90 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s OPI,15 W,Q4'19
+405,Intel® Core™ i5-8257U Processor,$320.00 ,Mobile,14 nm,4,8,3.90 GHz,,1.40 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'19
+406,Intel® Core™ i5-8279U Processor,$544.00 ,Mobile,14 nm,4,8,4.10 GHz,,2.40 GHz,6 MB Intel® Smart Cache,4 GT/s,28 W,Q2'19
+407,Intel® Core™ i5-8365U Processor,$297.00 ,Mobile,14 nm,4,8,4.10 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q2'19
+408,Intel® Core™ i5-8310Y Processor,$281.00 ,Mobile,14 nm,2,4,3.90 GHz,,1.60 GHz,4 MB Intel® Smart Cache,4 GT/s,7 W,Q1'19
+409,Intel® Core™ i5-8365UE Processor,$297.00 ,Embedded,14 nm,4,8,4.10 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+410,Intel® Core™ i5-8210Y Processor,,Mobile,14 nm,2,4,3.60 GHz,,1.60 GHz,4 MB Intel® Smart Cache,4 GT/s,7 W,Q1'19
+411,Intel® Core™ i5-8200Y Processor,$291.00 ,Mobile,14 nm,2,4,3.90 GHz,,1.30 GHz,4 MB Intel® Smart Cache,4 GT/s,5 W,Q3'18
+412,Intel® Core™ i5-8265U Processor,$297.00 ,Mobile,14 nm,4,8,3.90 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+413,Intel® Core™ i5-8305G Processor with Radeon™ Pro WX Vega M GL graphics,,Mobile,14 nm,4,8,3.80 GHz,,2.80 GHz,6 MB,8 GT/s,,Q3'18
+414,Intel® Core™ i5-8259U Processor,$320.00 ,Mobile,14 nm,4,8,3.80 GHz,,2.30 GHz,6 MB Intel® Smart Cache,4 GT/s,28 W,Q2'18
+415,Intel® Core™ i5-8269U Processor,$320.00 ,Mobile,14 nm,4,8,4.20 GHz,,2.60 GHz,6 MB Intel® Smart Cache,4 GT/s,28 W,Q2'18
+416,Intel® Core™ i5-8300H Processor,$250.00 ,Mobile,14 nm,4,8,4.00 GHz,,2.30 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'18
+417,"Intel® Core™ i5+8400 Processor (9M Cache, up to 4.00 GHz) includes Intel® Optane™ Memory",,Desktop,14 nm,6,6,4.00 GHz,,2.80 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+418,Intel® Core™ i5-8400B Processor,,Mobile,14 nm,6,6,4.00 GHz,,2.80 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+419,Intel® Core™ i5-8400H Processor,$250.00 ,Mobile,14 nm,4,8,4.20 GHz,,2.50 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q2'18
+420,Intel® Core™ i5-8400T Processor,,Desktop,14 nm,6,6,3.30 GHz,,1.70 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+421,Intel® Core™ i5-8500 Processor,$192.00 ,Desktop,14 nm,6,6,4.10 GHz,,3.00 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+422,"Intel® Core™ i5+8500 Processor (9M Cache, up to 4.10 GHz) includes Intel® Optane™ Memory",,Desktop,14 nm,6,6,4.10 GHz,,3.00 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+423,Intel® Core™ i5-8500B Processor,$192.00 ,Mobile,14 nm,6,6,4.10 GHz,,3.00 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+424,Intel® Core™ i5-8500T Processor,$192.00 ,Desktop,14 nm,6,6,3.50 GHz,,2.10 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+425,Intel® Core™ i5-8600 Processor,$213.00 ,Desktop,14 nm,6,6,4.30 GHz,,3.10 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q2'18
+426,Intel® Core™ i5-8600T Processor,,Desktop,14 nm,6,6,3.70 GHz,,2.30 GHz,9 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+427,Intel® Core™ i5-8305G Processor with Radeon™ RX Vega M GL graphics,,Mobile,14 nm,4,8,3.80 GHz,,2.80 GHz,6 MB,8 GT/s,,Q1'18
+428,Intel® Core™ i5-8400 Processor,,Desktop,14 nm,6,6,4.00 GHz,,2.80 GHz,9 MB Intel® Smart Cache,8 GT/s,65 W,Q4'17
+429,Intel® Core™ i5-8600K Processor,,Desktop,14 nm,6,6,4.30 GHz,,3.60 GHz,9 MB Intel® Smart Cache,8 GT/s,95 W,Q4'17
+430,Intel® Core™ i5-8250U Processor,,Mobile,14 nm,4,8,3.40 GHz,,1.60 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'17
+431,Intel® Core™ i5-8350U Processor,$297.00 ,Mobile,14 nm,4,8,3.60 GHz,,1.70 GHz,6 MB Intel® Smart Cache,4 GT/s,15 W,Q3'17
+432,Intel® Core™ i3-8140U Processor,,Mobile,14 nm,2,4,3.90 GHz,,2.10 GHz,4 MB Intel® Smart Cache,4 GT/s OPI,15 W,Q4'19
+433,Intel® Core™ i3-8145UE Processor,$281.00 ,Embedded,14 nm,2,4,3.90 GHz,,2.20 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+434,Intel® Core™ i3-8100B Processor,$133.00 ,Mobile,14 nm,4,4,,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q3'18
+435,Intel® Core™ i3-8145U Processor,$281.00 ,Mobile,14 nm,2,4,3.90 GHz,,2.10 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'18
+436,Intel® Core™ i3-8100T Processor,$117.00 ,Desktop,14 nm,4,4,,,3.10 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+437,Intel® Core™ i3-8109U Processor,,Mobile,14 nm,2,4,3.60 GHz,,3.00 GHz,4 MB Intel® Smart Cache,4 GT/s,28 W,Q2'18
+438,Intel® Core™ i3-8300 Processor,,Desktop,14 nm,4,4,,,3.70 GHz,8 MB Intel® Smart Cache,8 GT/s,62 W,Q2'18
+439,Intel® Core™ i3-8300T Processor,,Desktop,14 nm,4,4,,,3.20 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q2'18
+440,Intel® Core™ i3-8130U Processor,$281.00 ,Mobile,14 nm,2,4,3.40 GHz,,2.20 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q1'18
+441,Intel® Core™ i3-8100H Processor,$225.00 ,Mobile,14 nm,4,4,,,3.00 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q4'17
+442,Intel® Core™ i3-8100 Processor,$117.00 ,Desktop,14 nm,4,4,,,3.60 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q4'17
+443,Intel® Core™ i3-8350K Processor,,Desktop,14 nm,4,4,,,4.00 GHz,8 MB Intel® Smart Cache,8 GT/s,91 W,Q4'17
+444,Intel® Core™ m3-8100Y Processor,,Mobile,14 nm,2,4,3.40 GHz,,1.10 GHz,4 MB Intel® Smart Cache,4 GT/s,5 W,Q3'18
+445,Intel® Core™ i7-7560U Processor,$415.00 ,Mobile,14 nm,2,4,3.80 GHz,,2.40 GHz,4 MB,,15 W,Q1'17
+446,Intel® Core™ i7-7567U Processor,,Mobile,14 nm,2,4,4.00 GHz,,3.50 GHz,4 MB,4 GT/s,28 W,Q1'17
+447,Intel® Core™ i7-7660U Processor,$415.00 ,Mobile,14 nm,2,4,4.00 GHz,,2.50 GHz,4 MB,4 GT/s,15 W,Q1'17
+448,Intel® Core™ i7-7700 Processor,$303.00 ,Desktop,14 nm,4,8,4.20 GHz,,3.60 GHz,8 MB Intel® Smart Cache,8 GT/s,65 W,Q1'17
+449,Intel® Core™ i7-7700HQ Processor,,Mobile,14 nm,4,8,3.80 GHz,,2.80 GHz,6 MB,8 GT/s,45 W,Q1'17
+450,Intel® Core™ i7-7700K Processor,$339.00 ,Desktop,14 nm,4,8,4.50 GHz,,4.20 GHz,8 MB Intel® Smart Cache,8 GT/s,91 W,Q1'17
+451,Intel® Core™ i7-7700T Processor,$303.00 ,Desktop,14 nm,4,8,3.80 GHz,,2.90 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+452,Intel® Core™ i7-7820EQ Processor,$378.00 ,Embedded,14 nm,4,8,3.70 GHz,,3.00 GHz,8 MB,,45 W,Q1'17
+453,Intel® Core™ i7-7820HK Processor,,Mobile,14 nm,4,8,3.90 GHz,,2.90 GHz,8 MB,8 GT/s,45 W,Q1'17
+454,Intel® Core™ i7-7820HQ Processor,$378.00 ,Mobile,14 nm,4,8,3.90 GHz,,2.90 GHz,8 MB,8 GT/s,45 W,Q1'17
+455,Intel® Core™ i7-7920HQ Processor,,Mobile,14 nm,4,8,4.10 GHz,,3.10 GHz,8 MB,8 GT/s,45 W,Q1'17
+456,Intel® Core™ i7-7600U Processor,$393.00 ,Mobile,14 nm,2,4,3.90 GHz,,2.80 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'16
+457,Intel® Core™ i7-7500U Processor,,Mobile,14 nm,2,4,3.50 GHz,,2.70 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'16
+458,Intel® Core™ i7-7Y75 Processor,$393.00 ,Mobile,14 nm,2,4,3.60 GHz,,1.30 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'16
+459,Intel® Core™ i5-7260U Processor,,Mobile,14 nm,2,4,3.40 GHz,,2.20 GHz,4 MB,,15 W,Q1'17
+460,Intel® Core™ i5-7267U Processor,,Mobile,14 nm,2,4,3.50 GHz,,3.10 GHz,4 MB,4 GT/s,28 W,Q1'17
+461,Intel® Core™ i5-7287U Processor,,Mobile,14 nm,2,4,3.70 GHz,,3.30 GHz,4 MB,4 GT/s,28 W,Q1'17
+462,Intel® Core™ i5-7300HQ Processor,,Mobile,14 nm,4,4,3.50 GHz,,2.50 GHz,6 MB,8 GT/s,45 W,Q1'17
+463,Intel® Core™ i5-7300U Processor,$281.00 ,Mobile,14 nm,2,4,3.50 GHz,,2.60 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q1'17
+464,Intel® Core™ i5-7360U Processor,$304.00 ,Mobile,14 nm,2,4,3.60 GHz,,2.30 GHz,4 MB,4 GT/s,15 W,Q1'17
+465,Intel® Core™ i5-7400 Processor,$182.00 ,Desktop,14 nm,4,4,3.50 GHz,,3.00 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q1'17
+466,Intel® Core™ i5-7400T Processor,$182.00 ,Desktop,14 nm,4,4,3.00 GHz,,2.40 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+467,Intel® Core™ i5-7440EQ Processor,$250.00 ,Embedded,14 nm,4,4,3.60 GHz,,2.90 GHz,6 MB,8 GT/s,45 W,Q1'17
+468,Intel® Core™ i5-7440HQ Processor,,Mobile,14 nm,4,4,3.80 GHz,,2.80 GHz,6 MB,8 GT/s,45 W,Q1'17
+469,Intel® Core™ i5-7442EQ Processor,$250.00 ,Embedded,14 nm,4,4,2.90 GHz,,2.10 GHz,6 MB,,25 W,Q1'17
+470,Intel® Core™ i5-7500 Processor,$192.00 ,Desktop,14 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q1'17
+471,Intel® Core™ i5-7500T Processor,$192.00 ,Desktop,14 nm,4,4,3.30 GHz,,2.70 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+472,Intel® Core™ i5-7600 Processor,,Desktop,14 nm,4,4,4.10 GHz,,3.50 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q1'17
+473,Intel® Core™ i5-7600K Processor,$242.00 ,Desktop,14 nm,4,4,4.20 GHz,,3.80 GHz,6 MB Intel® Smart Cache,8 GT/s,91 W,Q1'17
+474,Intel® Core™ i5-7600T Processor,,Desktop,14 nm,4,4,3.70 GHz,,2.80 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+475,Intel® Core™ i5-7Y57 Processor,$281.00 ,Mobile,14 nm,2,4,3.30 GHz,,1.20 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q1'17
+476,Intel® Core™ i5-7200U Processor,,Mobile,14 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q3'16
+477,Intel® Core™ i5-7Y54 Processor,,Mobile,14 nm,2,4,3.20 GHz,,1.20 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'16
+478,Intel® Core™ i3-7020U Processor,$281.00 ,Mobile,14 nm,2,4,,,2.30 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q2'18
+479,Intel® Core™ i3-7130U Processor,$281.00 ,Mobile,14 nm,2,4,,,2.70 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q2'17
+480,Intel® Core™ i3-7100 Processor,,Desktop,14 nm,2,4,,,3.90 GHz,3 MB Intel® Smart Cache,8 GT/s,51 W,Q1'17
+481,Intel® Core™ i3-7100E Processor,$225.00 ,Embedded,14 nm,2,4,,,2.90 GHz,3 MB,,35 W,Q1'17
+482,Intel® Core™ i3-7100H Processor,,Mobile,14 nm,2,4,,,3.00 GHz,3 MB,8 GT/s,35 W,Q1'17
+483,Intel® Core™ i3-7100T Processor,,Desktop,14 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+484,Intel® Core™ i3-7101E Processor,$117.00 ,Desktop,14 nm,2,4,,,3.90 GHz,3 MB Intel® Smart Cache,,54 W,Q1'17
+485,Intel® Core™ i3-7101TE Processor,$117.00 ,Desktop,14 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+486,Intel® Core™ i3-7102E Processor,$225.00 ,Embedded,14 nm,2,4,,,2.10 GHz,3 MB,,25 W,Q1'17
+487,Intel® Core™ i3-7167U Processor,,Mobile,14 nm,2,4,,,2.80 GHz,3 MB,4 GT/s,28 W,Q1'17
+488,Intel® Core™ i3-7300 Processor,,Desktop,14 nm,2,4,,,4.00 GHz,4 MB Intel® Smart Cache,8 GT/s,51 W,Q1'17
+489,Intel® Core™ i3-7300T Processor,,Desktop,14 nm,2,4,,,3.50 GHz,4 MB Intel® Smart Cache,8 GT/s,35 W,Q1'17
+490,Intel® Core™ i3-7320 Processor,,Desktop,14 nm,2,4,,,4.10 GHz,4 MB Intel® Smart Cache,8 GT/s,51 W,Q1'17
+491,Intel® Core™ i3-7350K Processor,,Desktop,14 nm,2,4,,,4.20 GHz,4 MB Intel® Smart Cache,8 GT/s,60 W,Q1'17
+492,Intel® Core™ i3-7100U Processor,$281.00 ,Mobile,14 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q3'16
+493,Intel® Core™ m3-7Y32 Processor,$281.00 ,Mobile,14 nm,2,4,3.00 GHz,,1.10 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q2'17
+494,Intel® Core™ m3-7Y30 Processor,,Mobile,14 nm,2,4,2.60 GHz,,1.00 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'16
+495,Intel® Core™ i7-6785R Processor,,Desktop,14 nm,4,8,3.90 GHz,,3.30 GHz,8 MB,8 GT/s,65 W,Q2'16
+496,Intel® Core™ i7-6660U Processor,$415.00 ,Mobile,14 nm,2,4,3.40 GHz,,2.40 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q1'16
+497,Intel® Core™ i7-6770HQ Processor,$434.00 ,Mobile,14 nm,4,8,3.50 GHz,,2.60 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q1'16
+498,Intel® Core™ i7-6870HQ Processor,,Mobile,14 nm,4,8,3.60 GHz,,2.70 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q1'16
+499,Intel® Core™ i7-6970HQ Processor,,Mobile,14 nm,4,8,3.70 GHz,,2.80 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q1'16
+500,Intel® Core™ i7-6700TE Processor,$303.00 ,Embedded,14 nm,4,8,3.40 GHz,,2.40 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q4'15
+501,Intel® Core™ i7-6820EQ Processor,$378.00 ,Embedded,14 nm,4,8,3.50 GHz,,2.80 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q4'15
+502,Intel® Core™ i7-6822EQ Processor,$378.00 ,Embedded,14 nm,4,8,2.80 GHz,,2.00 GHz,8 MB Intel® Smart Cache,8 GT/s,25 W,Q4'15
+503,Intel® Core™ i7-6500U Processor,,Mobile,14 nm,2,4,3.10 GHz,,2.50 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+504,Intel® Core™ i7-6560U Processor,,Mobile,14 nm,2,4,3.20 GHz,,2.20 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+505,Intel® Core™ i7-6600U Processor,$393.00 ,Mobile,14 nm,2,4,3.40 GHz,,2.60 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+506,Intel® Core™ i7-6650U Processor,,Mobile,14 nm,2,4,3.40 GHz,,2.20 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+507,Intel® Core™ i7-6700 Processor,$303.00 ,Desktop,14 nm,4,8,4.00 GHz,,3.40 GHz,8 MB Intel® Smart Cache,8 GT/s,65 W,Q3'15
+508,Intel® Core™ i7-6700HQ Processor,$378.00 ,Mobile,14 nm,4,8,3.50 GHz,,2.60 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+509,Intel® Core™ i7-6700T Processor,,Desktop,14 nm,4,8,3.60 GHz,,2.80 GHz,8 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+510,Intel® Core™ i7-6820HK Processor,,Mobile,14 nm,4,8,3.60 GHz,,2.70 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+511,Intel® Core™ i7-6820HQ Processor,$378.00 ,Mobile,14 nm,4,8,3.60 GHz,,2.70 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+512,Intel® Core™ i7-6920HQ Processor,$568.00 ,Mobile,14 nm,4,8,3.80 GHz,,2.90 GHz,8 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+513,Intel® Core™ i7-6700K Processor,,Desktop,14 nm,4,8,4.20 GHz,,4.00 GHz,8 MB Intel® Smart Cache,8 GT/s,91 W,Q3'15
+514,Intel® Core™ i7-6567U Processor,,Mobile,14 nm,2,4,3.60 GHz,,3.30 GHz,4 MB Intel® Smart Cache,4 GT/s,28 W,Q3'15
+515,Intel® Core™ i5-6585R Processor,,Desktop,14 nm,4,4,3.60 GHz,,2.80 GHz,6 MB,8 GT/s,65 W,Q2'16
+516,Intel® Core™ i5-6685R Processor,,Desktop,14 nm,4,4,3.80 GHz,,3.20 GHz,6 MB,8 GT/s,65 W,Q2'16
+517,Intel® Core™ i5-6350HQ Processor,$306.00 ,Mobile,14 nm,4,4,3.20 GHz,,2.30 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q1'16
+518,Intel® Core™ i5-6402P Processor,,Desktop,14 nm,4,4,3.40 GHz,,2.80 GHz,6 MB,8 GT/s,65 W,Q4'15
+519,Intel® Core™ i5-6440EQ Processor,$250.00 ,Embedded,14 nm,4,4,3.40 GHz,,2.70 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q4'15
+520,Intel® Core™ i5-6442EQ Processor,$250.00 ,Embedded,14 nm,4,4,2.70 GHz,,1.90 GHz,6 MB Intel® Smart Cache,8 GT/s,25 W,Q4'15
+521,Intel® Core™ i5-6500TE Processor,$192.00 ,Embedded,14 nm,4,4,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q4'15
+522,Intel® Core™ i5-6200U Processor,,Mobile,14 nm,2,4,2.80 GHz,,2.30 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+523,Intel® Core™ i5-6260U Processor,,Mobile,14 nm,2,4,2.90 GHz,,1.80 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+524,Intel® Core™ i5-6267U Processor,$304.00 ,Mobile,14 nm,2,4,3.30 GHz,,2.90 GHz,4 MB Intel® Smart Cache,4 GT/s,28 W,Q3'15
+525,Intel® Core™ i5-6287U Processor,$304.00 ,Mobile,14 nm,2,4,3.50 GHz,,3.10 GHz,4 MB Intel® Smart Cache,4 GT/s,28 W,Q3'15
+526,Intel® Core™ i5-6300HQ Processor,,Mobile,14 nm,4,4,3.20 GHz,,2.30 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+527,Intel® Core™ i5-6300U Processor,$281.00 ,Mobile,14 nm,2,4,3.00 GHz,,2.40 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+528,Intel® Core™ i5-6360U Processor,$304.00 ,Mobile,14 nm,2,4,3.10 GHz,,2.00 GHz,4 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+529,Intel® Core™ i5-6400 Processor,$182.00 ,Desktop,14 nm,4,4,3.30 GHz,,2.70 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q3'15
+530,Intel® Core™ i5-6400T Processor,$182.00 ,Desktop,14 nm,4,4,2.80 GHz,,2.20 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+531,Intel® Core™ i5-6440HQ Processor,$250.00 ,Mobile,14 nm,4,4,3.50 GHz,,2.60 GHz,6 MB Intel® Smart Cache,8 GT/s,45 W,Q3'15
+532,Intel® Core™ i5-6500 Processor,$192.00 ,Desktop,14 nm,4,4,3.60 GHz,,3.20 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q3'15
+533,Intel® Core™ i5-6500T Processor,,Desktop,14 nm,4,4,3.10 GHz,,2.50 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+534,Intel® Core™ i5-6600 Processor,$213.00 ,Desktop,14 nm,4,4,3.90 GHz,,3.30 GHz,6 MB Intel® Smart Cache,8 GT/s,65 W,Q3'15
+535,Intel® Core™ i5-6600T Processor,,Desktop,14 nm,4,4,3.50 GHz,,2.70 GHz,6 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+536,Intel® Core™ i5-6600K Processor,$242.00 ,Desktop,14 nm,4,4,3.90 GHz,,3.50 GHz,6 MB Intel® Smart Cache,8 GT/s,91 W,Q3'15
+537,Intel® Core™ i3-6006U Processor,,Mobile,14 nm,2,4,,,2.00 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q4'16
+538,Intel® Core™ i3-6157U Processor,,Mobile,14 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,4 GT/s,28 W,Q3'16
+539,Intel® Core™ i3-6098P Processor,,Desktop,14 nm,2,4,,,3.60 GHz,3 MB,8 GT/s,54 W,Q4'15
+540,Intel® Core™ i3-6100E Processor,$225.00 ,Embedded,14 nm,2,4,,,2.70 GHz,3 MB Intel® Smart Cache,8 GT/s,35 W,Q4'15
+541,Intel® Core™ i3-6100TE Processor,$117.00 ,Embedded,14 nm,2,4,,,2.70 GHz,4 MB Intel® Smart Cache,8 GT/s,35 W,Q4'15
+542,Intel® Core™ i3-6102E Processor,$225.00 ,Embedded,14 nm,2,4,,,1.90 GHz,3 MB Intel® Smart Cache,8 GT/s,25 W,Q4'15
+543,Intel® Core™ i3-6100 Processor,$117.00 ,Desktop,14 nm,2,4,,,3.70 GHz,3 MB Intel® Smart Cache,8 GT/s,51 W,Q3'15
+544,Intel® Core™ i3-6100H Processor,,Mobile,14 nm,2,4,,,2.70 GHz,3 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+545,Intel® Core™ i3-6100T Processor,$117.00 ,Desktop,14 nm,2,4,,,3.20 GHz,3 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+546,Intel® Core™ i3-6100U Processor,$281.00 ,Mobile,14 nm,2,4,,,2.30 GHz,3 MB Intel® Smart Cache,4 GT/s,15 W,Q3'15
+547,Intel® Core™ i3-6167U Processor,,Mobile,14 nm,2,4,,,2.70 GHz,3 MB Intel® Smart Cache,4 GT/s,28 W,Q3'15
+548,Intel® Core™ i3-6300 Processor,,Desktop,14 nm,2,4,,,3.80 GHz,4 MB Intel® Smart Cache,8 GT/s,51 W,Q3'15
+549,Intel® Core™ i3-6300T Processor,,Desktop,14 nm,2,4,,,3.30 GHz,4 MB Intel® Smart Cache,8 GT/s,35 W,Q3'15
+550,Intel® Core™ i3-6320 Processor,,Desktop,14 nm,2,4,,,3.90 GHz,4 MB Intel® Smart Cache,8 GT/s,51 W,Q3'15
+551,Intel® Core™ m3-6Y30 Processor,$281.00 ,Mobile,14 nm,2,4,2.20 GHz,,900 MHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'15
+552,Intel® Core™ m5-6Y54 Processor,$281.00 ,Mobile,14 nm,2,4,2.70 GHz,,1.10 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'15
+553,Intel® Core™ m5-6Y57 Processor,,Mobile,14 nm,2,4,2.80 GHz,,1.10 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'15
+554,Intel® Core™ m7-6Y75 Processor,$393.00 ,Mobile,14 nm,2,4,3.10 GHz,,1.20 GHz,4 MB Intel® Smart Cache,4 GT/s,4.5 W,Q3'15
+555,Intel® Core™ i7-5700EQ Processor,,Embedded,14 nm,4,8,3.40 GHz,,2.60 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'15
+556,Intel® Core™ i7-5700HQ Processor,,Mobile,14 nm,4,8,3.50 GHz,,2.70 GHz,6 MB,5 GT/s,47 W,Q2'15
+557,Intel® Core™ i7-5750HQ Processor,,Mobile,14 nm,4,8,3.40 GHz,,2.50 GHz,6 MB,5 GT/s,47 W,Q2'15
+558,Intel® Core™ i7-5775C Processor,,Desktop,14 nm,4,8,3.70 GHz,,3.30 GHz,6 MB,5 GT/s,65 W,Q2'15
+559,Intel® Core™ i7-5775R Processor,,Desktop,14 nm,4,8,3.80 GHz,,3.30 GHz,6 MB,5 GT/s,65 W,Q2'15
+560,Intel® Core™ i7-5850EQ Processor,,Embedded,14 nm,4,8,3.40 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'15
+561,Intel® Core™ i7-5850HQ Processor,,Mobile,14 nm,4,8,3.60 GHz,,2.70 GHz,6 MB,5 GT/s,47 W,Q2'15
+562,Intel® Core™ i7-5950HQ Processor,,Mobile,14 nm,4,8,3.80 GHz,,2.90 GHz,6 MB,5 GT/s,47 W,Q2'15
+563,Intel® Core™ i7-5500U Processor,,Mobile,14 nm,2,4,3.00 GHz,,2.40 GHz,4 MB,5 GT/s,15 W,Q1'15
+564,Intel® Core™ i7-5550U Processor,,Mobile,14 nm,2,4,3.00 GHz,,2.00 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q1'15
+565,Intel® Core™ i7-5557U Processor,$426.00 ,Mobile,14 nm,2,4,3.40 GHz,,3.10 GHz,4 MB,5 GT/s,28 W,Q1'15
+566,Intel® Core™ i7-5600U Processor,,Mobile,14 nm,2,4,3.20 GHz,,2.60 GHz,4 MB,5 GT/s,15 W,Q1'15
+567,Intel® Core™ i7-5650U Processor,,Mobile,14 nm,2,4,3.10 GHz,,2.20 GHz,4 MB,5 GT/s,15 W,Q1'15
+568,Intel® Core™ i5-5350H Processor,,Mobile,14 nm,2,4,3.50 GHz,,3.10 GHz,4 MB,5 GT/s,47 W,Q2'15
+569,Intel® Core™ i5-5575R Processor,$244.00 ,Desktop,14 nm,4,,3.30 GHz,,2.80 GHz,4 MB,5 GT/s,65 W,Q2'15
+570,Intel® Core™ i5-5675C Processor,,Desktop,14 nm,4,,3.60 GHz,,3.10 GHz,4 MB,5 GT/s,65 W,Q2'15
+571,Intel® Core™ i5-5675R Processor,,Desktop,14 nm,4,,3.60 GHz,,3.10 GHz,4 MB,5 GT/s,65 W,Q2'15
+572,Intel® Core™ i5-5200U Processor,,Mobile,14 nm,2,4,2.70 GHz,,2.20 GHz,3 MB,5 GT/s,15 W,Q1'15
+573,Intel® Core™ i5-5250U Processor,$315.00 ,Mobile,14 nm,2,4,2.70 GHz,,1.60 GHz,3 MB,5 GT/s,15 W,Q1'15
+574,Intel® Core™ i5-5257U Processor,$315.00 ,Mobile,14 nm,2,4,3.10 GHz,,2.70 GHz,3 MB,5 GT/s,28 W,Q1'15
+575,Intel® Core™ i5-5287U Processor,,Mobile,14 nm,2,4,3.30 GHz,,2.90 GHz,3 MB,5 GT/s,28 W,Q1'15
+576,Intel® Core™ i5-5300U Processor,,Mobile,14 nm,2,4,2.90 GHz,,2.30 GHz,3 MB,5 GT/s,15 W,Q1'15
+577,Intel® Core™ i5-5350U Processor,,Mobile,14 nm,2,4,2.90 GHz,,1.80 GHz,3 MB,5 GT/s,15 W,Q1'15
+578,Intel® Core™ i3-5015U Processor,,Mobile,14 nm,2,4,,,2.10 GHz,3 MB,5 GT/s,15 W,Q1'15
+579,Intel® Core™ i3-5020U Processor,,Mobile,14 nm,2,4,,,2.20 GHz,3 MB,5 GT/s,15 W,Q1'15
+580,Intel® Core™ i3-5005U Processor,,Mobile,14 nm,2,4,,,2.00 GHz,3 MB,5 GT/s,15 W,Q1'15
+581,Intel® Core™ i3-5010U Processor,$281.00 ,Mobile,14 nm,2,4,,,2.10 GHz,3 MB,5 GT/s,15 W,Q1'15
+582,Intel® Core™ i3-5157U Processor,,Mobile,14 nm,2,4,,,2.50 GHz,3 MB,5 GT/s,28 W,Q1'15
+583,Intel® Core™ M-5Y10c Processor,,Mobile,14 nm,2,4,2.00 GHz,,800 MHz,4 MB,,4.5 W,Q4'14
+584,Intel® Core™ M-5Y31 Processor,,Mobile,14 nm,2,4,2.40 GHz,,900 MHz,4 MB,,4.5 W,Q4'14
+585,Intel® Core™ M-5Y51 Processor,,Mobile,14 nm,2,4,2.60 GHz,,1.10 GHz,4 MB,,4.5 W,Q4'14
+586,Intel® Core™ M-5Y71 Processor,,Mobile,14 nm,2,4,2.90 GHz,,1.20 GHz,4 MB,,4.5 W,Q4'14
+587,Intel® Core™ M-5Y10 Processor,,Mobile,14 nm,2,4,2.00 GHz,,800 MHz,4 MB,,4.5 W,Q3'14
+588,Intel® Core™ M-5Y10a Processor,,Mobile,14 nm,2,4,2.00 GHz,,800 MHz,4 MB,,4.5 W,Q3'14
+589,Intel® Core™ M-5Y70 Processor,,Mobile,14 nm,2,4,2.60 GHz,,1.10 GHz,4 MB,5 GT/s,4.5 W,Q3'14
+590,Intel® Core™ i7-4720HQ Processor,,Mobile,22 nm,4,8,3.60 GHz,,2.60 GHz,6 MB,5 GT/s,47 W,Q1'15
+591,Intel® Core™ i7-4722HQ Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB,5 GT/s,37 W,Q1'15
+592,Intel® Core™ i7-4578U Processor,,Mobile,22 nm,2,4,3.50 GHz,,3.00 GHz,4 MB,5 GT/s,28 W,Q3'14
+593,Intel® Core™ i7-4770HQ Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.20 GHz,6 MB,5 GT/s,47 W,Q3'14
+594,Intel® Core™ i7-4870HQ Processor,,Mobile,22 nm,4,8,3.70 GHz,,2.50 GHz,6 MB,5 GT/s,47 W,Q3'14
+595,Intel® Core™ i7-4980HQ Processor,,Mobile,22 nm,4,8,4.00 GHz,,2.80 GHz,6 MB,5 GT/s,47 W,Q3'14
+596,Intel® Core™ i7-4790K Processor,$350.00 ,Desktop,22 nm,4,8,4.40 GHz,,4.00 GHz,8 MB Intel® Smart Cache,5 GT/s,88 W,Q2'14
+597,Intel® Core™ i7-4785T Processor,,Desktop,22 nm,4,8,3.20 GHz,,2.20 GHz,8 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+598,Intel® Core™ i7-4790 Processor,$312.00 ,Desktop,22 nm,4,8,4.00 GHz,,3.60 GHz,8 MB Intel® Smart Cache,5 GT/s,84 W,Q2'14
+599,Intel® Core™ i7-4790S Processor,$312.00 ,Desktop,22 nm,4,8,4.00 GHz,,3.20 GHz,8 MB Intel® Smart Cache,5 GT/s,65 W,Q2'14
+600,Intel® Core™ i7-4790T Processor,,Desktop,22 nm,4,8,3.90 GHz,,2.70 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q2'14
+601,Intel® Core™ i7-4510U Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.00 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q2'14
+602,Intel® Core™ i7-4710HQ Processor,,Mobile,22 nm,4,8,3.50 GHz,,2.50 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'14
+603,Intel® Core™ i7-4710MQ Processor,,Mobile,22 nm,4,8,3.50 GHz,,2.50 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'14
+604,Intel® Core™ i7-4712HQ Processor,,Mobile,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+605,Intel® Core™ i7-4712MQ Processor,,Mobile,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+606,Intel® Core™ i7-4760HQ Processor,,Mobile,22 nm,4,8,3.30 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'14
+607,Intel® Core™ i7-4700EC Processor,,Embedded,22 nm,4,8,,,2.70 GHz,8 MB Intel® Smart Cache,5 GT/s,43 W,Q1'14
+608,Intel® Core™ i7-4702EC Processor,,Embedded,22 nm,4,8,,,2.00 GHz,8 MB Intel® Smart Cache,5 GT/s,27 W,Q1'14
+609,Intel® Core™ i7-4610M Processor,,Mobile,22 nm,2,4,3.70 GHz,,3.00 GHz,4 MB Intel® Smart Cache,5 GT/s,37 W,Q1'14
+610,Intel® Core™ i7-4810MQ Processor,,Mobile,22 nm,4,8,3.80 GHz,,2.80 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q1'14
+611,Intel® Core™ i7-4860HQ Processor,,Mobile,22 nm,4,8,3.60 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q1'14
+612,Intel® Core™ i7-4910MQ Processor,$570.00 ,Mobile,22 nm,4,8,3.90 GHz,,2.90 GHz,8 MB Intel® Smart Cache,5 GT/s,47 W,Q1'14
+613,Intel® Core™ i7-4600M Processor,,Mobile,22 nm,2,4,3.60 GHz,,2.90 GHz,4 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+614,Intel® Core™ i7-4600U Processor,,Mobile,22 nm,2,4,3.30 GHz,,2.10 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+615,Intel® Core™ i7-4610Y Processor,,Mobile,22 nm,2,4,2.90 GHz,,1.70 GHz,4 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+616,Intel® Core™ i7-4771 Processor,$320.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.50 GHz,8 MB Intel® Smart Cache,5 GT/s,84 W,Q3'13
+617,Intel® Core™ i7-4960HQ Processor,,Mobile,22 nm,4,8,3.80 GHz,,2.60 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q4'13
+618,Intel® Core™ i7-4750HQ Processor,,Mobile,22 nm,4,8,3.20 GHz,,2.00 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q3'13
+619,Intel® Core™ i7-4850HQ Processor,,Mobile,22 nm,4,8,3.50 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q3'13
+620,Intel® Core™ i7-4950HQ Processor,,Mobile,22 nm,4,8,3.60 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q3'13
+621,Intel® Core™ i7-4500U Processor,,Mobile,22 nm,2,4,3.00 GHz,,1.80 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+622,Intel® Core™ i7-4550U Processor,,Mobile,22 nm,2,4,3.00 GHz,,1.50 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+623,Intel® Core™ i7-4558U Processor,,Mobile,22 nm,2,4,3.30 GHz,,2.80 GHz,4 MB Intel® Smart Cache,5 GT/s,28 W,Q3'13
+624,Intel® Core™ i7-4650U Processor,,Mobile,22 nm,2,4,3.30 GHz,,1.70 GHz,4 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+625,Intel® Core™ i7-4770R Processor,,Desktop,22 nm,4,8,3.90 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+626,Intel® Core™ i7-4700EQ Processor,,Embedded,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'13
+627,Intel® Core™ i7-4700HQ Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'13
+628,Intel® Core™ i7-4700MQ Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'13
+629,Intel® Core™ i7-4702HQ Processor,,Mobile,22 nm,4,8,3.20 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,37 W,Q2'13
+630,Intel® Core™ i7-4702MQ Processor,,Mobile,22 nm,4,8,3.20 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,37 W,Q2'13
+631,Intel® Core™ i7-4765T Processor,,Desktop,22 nm,4,8,3.00 GHz,,2.00 GHz,8 MB Intel® Smart Cache,5 GT/s,35 W,Q2'13
+632,Intel® Core™ i7-4770 Processor,$312.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.40 GHz,8 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+633,Intel® Core™ i7-4770K Processor,$350.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.50 GHz,8 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+634,Intel® Core™ i7-4770S Processor,,Desktop,22 nm,4,8,3.90 GHz,,3.10 GHz,8 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+635,Intel® Core™ i7-4770T Processor,,Desktop,22 nm,4,8,3.70 GHz,,2.50 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q2'13
+636,Intel® Core™ i7-4770TE Processor,,Embedded,22 nm,4,8,3.30 GHz,,2.30 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q2'13
+637,Intel® Core™ i7-4800MQ Processor,$380.00 ,Mobile,22 nm,4,8,3.70 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,47 W,Q2'13
+638,Intel® Core™ i7-4900MQ Processor,$570.00 ,Mobile,22 nm,4,8,3.80 GHz,,2.80 GHz,8 MB Intel® Smart Cache,5 GT/s,47 W,Q2'13
+639,Intel® Core™ i5-4210H Processor,,Mobile,22 nm,2,4,3.50 GHz,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,47 W,Q3'14
+640,Intel® Core™ i5-4278U Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.60 GHz,3 MB,5 GT/s,28 W,Q3'14
+641,Intel® Core™ i5-4308U Processor,$315.00 ,Mobile,22 nm,2,4,3.30 GHz,,2.80 GHz,3 MB,5 GT/s,28 W,Q3'14
+642,Intel® Core™ i5-4690K Processor,$243.00 ,Desktop,22 nm,4,4,3.90 GHz,,3.50 GHz,6 MB Intel® Smart Cache,5 GT/s,88 W,Q2'14
+643,Intel® Core™ i5-4460 Processor,$182.00 - $187.00,Desktop,22 nm,4,4,3.40 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'14
+644,Intel® Core™ i5-4460S Processor,,Desktop,22 nm,4,4,3.40 GHz,,2.90 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'14
+645,Intel® Core™ i5-4460T Processor,,Desktop,22 nm,4,4,2.70 GHz,,1.90 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+646,Intel® Core™ i5-4590 Processor,$202.00 ,Desktop,22 nm,4,4,3.70 GHz,,3.30 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'14
+647,Intel® Core™ i5-4590S Processor,$202.00 ,Desktop,22 nm,4,4,3.70 GHz,,3.00 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'14
+648,Intel® Core™ i5-4590T Processor,,Desktop,22 nm,4,4,3.00 GHz,,2.00 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+649,Intel® Core™ i5-4690 Processor,$224.00 ,Desktop,22 nm,4,4,3.90 GHz,,3.50 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'14
+650,Intel® Core™ i5-4690S Processor,$224.00 ,Desktop,22 nm,4,4,3.90 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'14
+651,Intel® Core™ i5-4690T Processor,,Desktop,22 nm,4,4,3.50 GHz,,2.50 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'14
+652,Intel® Core™ i5-4210M Processor,,Mobile,22 nm,2,4,3.20 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+653,Intel® Core™ i5-4210U Processor,,Mobile,22 nm,2,4,2.70 GHz,,1.70 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q2'14
+654,Intel® Core™ i5-4220Y Processor,,Mobile,22 nm,2,4,2.00 GHz,,1.60 GHz,3 MB,5 GT/s,11.5 W,Q2'14
+655,Intel® Core™ i5-4260U Processor,,Mobile,22 nm,2,4,2.70 GHz,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q2'14
+656,Intel® Core™ i5-4410E Processor,,Embedded,22 nm,2,4,,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+657,Intel® Core™ i5-4422E Processor,,Embedded,22 nm,2,4,2.90 GHz,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,25 W,Q2'14
+658,Intel® Core™ i5-4402EC Processor,,Embedded,22 nm,2,4,,,2.50 GHz,4 MB Intel® Smart Cache,5 GT/s,27 W,Q1'14
+659,Intel® Core™ i5-4310M Processor,,Mobile,22 nm,2,4,3.40 GHz,,2.70 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q1'14
+660,Intel® Core™ i5-4310U Processor,,Mobile,22 nm,2,4,3.00 GHz,,2.00 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q1'14
+661,Intel® Core™ i5-4340M Processor,,Mobile,22 nm,2,4,3.60 GHz,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q1'14
+662,Intel® Core™ i5-4360U Processor,,Mobile,22 nm,2,4,3.00 GHz,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q1'14
+663,Intel® Core™ i5-4200H Processor,,Mobile,22 nm,2,4,3.40 GHz,,2.80 GHz,3 MB Intel® Smart Cache,5 GT/s,47 W,Q4'13
+664,Intel® Core™ i5-4200M Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+665,Intel® Core™ i5-4202Y Processor,,Mobile,22 nm,2,4,2.00 GHz,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+666,Intel® Core™ i5-4210Y Processor,,Mobile,22 nm,2,4,1.90 GHz,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+667,Intel® Core™ i5-4300M Processor,$227.00 ,Mobile,22 nm,2,4,3.30 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+668,Intel® Core™ i5-4300U Processor,,Mobile,22 nm,2,4,2.90 GHz,,1.90 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+669,Intel® Core™ i5-4300Y Processor,,Mobile,22 nm,2,4,2.30 GHz,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+670,Intel® Core™ i5-4302Y Processor,,Mobile,22 nm,2,4,2.30 GHz,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+671,Intel® Core™ i5-4330M Processor,,Mobile,22 nm,2,4,3.50 GHz,,2.80 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+672,Intel® Core™ i5-4400E Processor,,Embedded,22 nm,2,4,3.30 GHz,,2.70 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q3'13
+673,Intel® Core™ i5-4402E Processor,,Embedded,22 nm,2,4,2.70 GHz,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,25 W,Q3'13
+674,Intel® Core™ i5-4440 Processor,$187.00 ,Desktop,22 nm,4,4,3.30 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q3'13
+675,Intel® Core™ i5-4440S Processor,$187.00 ,Desktop,22 nm,4,4,3.30 GHz,,2.80 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q3'13
+676,Intel® Core™ i5-4200U Processor,$281.00 ,Mobile,22 nm,2,4,2.60 GHz,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+677,Intel® Core™ i5-4200Y Processor,,Mobile,22 nm,2,4,1.90 GHz,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+678,Intel® Core™ i5-4250U Processor,,Mobile,22 nm,2,4,2.60 GHz,,1.30 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+679,Intel® Core™ i5-4258U Processor,,Mobile,22 nm,2,4,2.90 GHz,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,28 W,Q3'13
+680,Intel® Core™ i5-4288U Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,28 W,Q3'13
+681,Intel® Core™ i5-4350U Processor,,Mobile,22 nm,2,4,2.90 GHz,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+682,Intel® Core™ i5-4570R Processor,,Desktop,22 nm,4,4,3.20 GHz,,2.70 GHz,4 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+683,Intel® Core™ i5-4670R Processor,,Desktop,22 nm,4,4,3.70 GHz,,3.00 GHz,4 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+684,Intel® Core™ i5-4430 Processor,$187.00 ,Desktop,22 nm,4,4,3.20 GHz,,3.00 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+685,Intel® Core™ i5-4430S Processor,,Desktop,22 nm,4,4,3.20 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+686,Intel® Core™ i5-4570 Processor,$192.00 - $202.00,Desktop,22 nm,4,4,3.60 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+687,Intel® Core™ i5-4570S Processor,$195.00 ,Desktop,22 nm,4,4,3.60 GHz,,2.90 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+688,Intel® Core™ i5-4570T Processor,$195.00 ,Desktop,22 nm,2,4,3.60 GHz,,2.90 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q2'13
+689,Intel® Core™ i5-4570TE Processor,,Embedded,22 nm,2,4,3.30 GHz,,2.70 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q2'13
+690,Intel® Core™ i5-4670 Processor,$224.00 ,Desktop,22 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+691,Intel® Core™ i5-4670K Processor,$243.00 ,Desktop,22 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,5 GT/s,84 W,Q2'13
+692,Intel® Core™ i5-4670S Processor,,Desktop,22 nm,4,4,3.80 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'13
+693,Intel® Core™ i5-4670T Processor,$213.00 ,Desktop,22 nm,4,4,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'13
+694,Intel® Core™ i3-4170 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.70 GHz,3 MB,5 GT/s,54 W,Q1'15
+695,Intel® Core™ i3-4170T Processor,,Desktop,22 nm,2,4,,,3.20 GHz,3 MB,5 GT/s,35 W,Q1'15
+696,Intel® Core™ i3-4370T Processor,,Desktop,22 nm,2,4,,,3.30 GHz,4 MB,5 GT/s,35 W,Q1'15
+697,Intel® Core™ i3-4160 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.60 GHz,3 MB Intel® Smart Cache,5 GT/s,54 W,Q3'14
+698,Intel® Core™ i3-4160T Processor,,Desktop,22 nm,2,4,,,3.10 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'14
+699,Intel® Core™ i3-4360T Processor,,Desktop,22 nm,2,4,,,3.20 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q3'14
+700,Intel® Core™ i3-4370 Processor,$147.00 ,Desktop,22 nm,2,4,,,3.80 GHz,4 MB Intel® Smart Cache,5 GT/s,54 W,Q3'14
+701,Intel® Core™ i3-4150 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.50 GHz,3 MB Intel® Smart Cache,5 GT/s,54 W,Q2'14
+702,Intel® Core™ i3-4150T Processor,,Desktop,22 nm,2,4,,,3.00 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+703,Intel® Core™ i3-4340TE Processor,,Embedded,22 nm,2,4,,,2.60 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+704,Intel® Core™ i3-4350 Processor,$147.00 ,Desktop,22 nm,2,4,,,3.60 GHz,4 MB Intel® Smart Cache,5 GT/s,54 W,Q2'14
+705,Intel® Core™ i3-4350T Processor,,Desktop,22 nm,2,4,,,3.10 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q2'14
+706,Intel® Core™ i3-4360 Processor,$147.00 ,Desktop,22 nm,2,4,,,3.70 GHz,4 MB Intel® Smart Cache,5 GT/s,54 W,Q2'14
+707,Intel® Core™ i3-4025U Processor,,Mobile,22 nm,2,4,,,1.90 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q2'14
+708,Intel® Core™ i3-4030U Processor,,Mobile,22 nm,2,4,,,1.90 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q2'14
+709,Intel® Core™ i3-4030Y Processor,,Mobile,22 nm,2,4,,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q2'14
+710,Intel® Core™ i3-4110E Processor,,Embedded,22 nm,2,4,,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+711,Intel® Core™ i3-4110M Processor,,Mobile,22 nm,2,4,,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q2'14
+712,Intel® Core™ i3-4112E Processor,,Embedded,22 nm,2,4,,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,25 W,Q2'14
+713,Intel® Core™ i3-4120U Processor,,Mobile,22 nm,2,4,,,2.00 GHz,3 MB,5 GT/s,15 W,Q2'14
+714,Intel® Core™ i3-4000M Processor,,Mobile,22 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+715,Intel® Core™ i3-4005U Processor,,Mobile,22 nm,2,4,,,1.70 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+716,Intel® Core™ i3-4012Y Processor,,Mobile,22 nm,2,4,,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+717,Intel® Core™ i3-4020Y Processor,,Mobile,22 nm,2,4,,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+718,Intel® Core™ i3-4100E Processor,,Embedded,22 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q3'13
+719,Intel® Core™ i3-4100M Processor,,Mobile,22 nm,2,4,,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,37 W,Q4'13
+720,Intel® Core™ i3-4102E Processor,,Embedded,22 nm,2,4,,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,25 W,Q3'13
+721,Intel® Core™ i3-4130 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,5 GT/s,54 W,Q3'13
+722,Intel® Core™ i3-4130T Processor,$117.00 ,Desktop,22 nm,2,4,,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'13
+723,Intel® Core™ i3-4330 Processor,$147.00 ,Desktop,22 nm,2,4,,,3.50 GHz,4 MB Intel® Smart Cache,5 GT/s,54 W,Q3'13
+724,Intel® Core™ i3-4330T Processor,,Desktop,22 nm,2,4,,,3.00 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q3'13
+725,Intel® Core™ i3-4330TE Processor,,Embedded,22 nm,2,4,,,2.40 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q3'13
+726,Intel® Core™ i3-4340 Processor,$157.00 ,Desktop,22 nm,2,4,,,3.60 GHz,4 MB Intel® Smart Cache,5 GT/s,54 W,Q3'13
+727,Intel® Core™ i3-4010U Processor,,Mobile,22 nm,2,4,,,1.70 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+728,Intel® Core™ i3-4010Y Processor,,Mobile,22 nm,2,4,,,1.30 GHz,3 MB Intel® Smart Cache,5 GT/s,11.5 W,Q3'13
+729,Intel® Core™ i3-4100U Processor,,Mobile,22 nm,2,4,,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,15 W,Q3'13
+730,Intel® Core™ i3-4158U Processor,,Mobile,22 nm,2,4,,,2.00 GHz,3 MB Intel® Smart Cache,5 GT/s,28 W,Q3'13
+731,Intel® Core™ i3-L13G4 Processor,$309.00 ,Mobile,10 nm,5,5,2.80 GHz,,800 MHz,4 MB,4 GT/s,,Q2'20
+732,Intel® Core™ i5-L16G7 Processor,$309.00 ,Mobile,10 nm,5,5,3.00 GHz,,1.40 GHz,4 MB,4 GT/s,,Q2'20
+733,Intel® Core™ i3-3115C Processor,,Embedded,22 nm,2,4,,,2.50 GHz,4 MB L3 Cache,5 GT/s,25 W,Q3'13
+734,Intel® Core™ i5-3340 Processor,$182.00 - $187.00,Desktop,22 nm,4,4,3.30 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q3'13
+735,Intel® Core™ i5-3340S Processor,$187.00 ,Desktop,22 nm,4,4,3.30 GHz,,2.80 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q3'13
+736,Intel® Core™ i3-3245 Processor,$144.00 ,Desktop,22 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q2'13
+737,Intel® Core™ i3-3250 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.50 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q2'13
+738,Intel® Core™ i3-3250T Processor,,Desktop,22 nm,2,4,,,3.00 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'13
+739,Intel® Core™ i3-3130M Processor,,Mobile,22 nm,2,4,,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+740,Intel® Core™ i3-3210 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.20 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q1'13
+741,Intel® Core™ i3-3227U Processor,,Mobile,22 nm,2,4,,,1.90 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+742,Intel® Core™ i5-3230M Processor,,Mobile,22 nm,2,4,3.20 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+743,Intel® Core™ i5-3230M Processor,,Mobile,22 nm,2,4,3.20 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+744,Intel® Core™ i5-3337U Processor,,Mobile,22 nm,2,4,2.70 GHz,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+745,Intel® Core™ i5-3340M Processor,$227.00 ,Mobile,22 nm,2,4,3.40 GHz,,2.70 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+746,Intel® Core™ i5-3380M Processor,$269.00 ,Mobile,22 nm,2,4,3.60 GHz,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+747,Intel® Core™ i5-3437U Processor,,Mobile,22 nm,2,4,2.90 GHz,,1.90 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+748,Intel® Core™ i7-3537U Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.00 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+749,Intel® Core™ i7-3540M Processor,,Mobile,22 nm,2,4,3.70 GHz,,3.00 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+750,Intel® Core™ i7-3687U Processor,,Mobile,22 nm,2,4,3.30 GHz,,2.10 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+751,Intel® Core™ i3-3229Y Processor,,Mobile,22 nm,2,4,,,1.40 GHz,3 MB,5 GT/s,13 W,Q1'13
+752,Intel® Core™ i5-3339Y Processor,,Mobile,22 nm,2,4,2.00 GHz,,1.50 GHz,3 MB,5 GT/s,13 W,Q1'13
+753,Intel® Core™ i5-3439Y Processor,,Mobile,22 nm,2,4,2.30 GHz,,1.50 GHz,3 MB,5 GT/s,13 W,Q1'13
+754,Intel® Core™ i7-3689Y Processor,,Mobile,22 nm,2,4,2.60 GHz,,1.50 GHz,4 MB,5 GT/s,13 W,Q1'13
+755,Intel® Core™ i3-2348M Processor,,Mobile,32 nm,2,4,,,2.30 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'13
+756,Intel® Core™ i3-2375M Processor,,Mobile,32 nm,2,4,,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q1'13
+757,Intel® Core™ i3-3120M Processor,,Mobile,22 nm,2,4,,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+758,Intel® Core™ i7-3630QM Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q3'12
+759,Intel® Core™ i7-3632QM Processor,,Mobile,22 nm,4,8,3.20 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+760,Intel® Core™ i7-3632QM Processor,,Mobile,22 nm,4,8,3.20 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+761,Intel® Core™ i7-3635QM Processor,,Mobile,22 nm,4,8,3.40 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q3'12
+762,Intel® Core™ i7-3740QM Processor,$380.00 ,Mobile,22 nm,4,8,3.70 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q3'12
+763,Intel® Core™ i7-3840QM Processor,,Mobile,22 nm,4,8,3.80 GHz,,2.80 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q3'12
+764,Intel® Core™ i3-3220 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.30 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q3'12
+765,Intel® Core™ i3-3220T Processor,$117.00 ,Desktop,22 nm,2,4,,,2.80 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+766,Intel® Core™ i3-3225 Processor,$134.00 ,Desktop,22 nm,2,4,,,3.30 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q3'12
+767,Intel® Core™ i3-3240 Processor,$117.00 ,Desktop,22 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,5 GT/s,55 W,Q3'12
+768,Intel® Core™ i3-3240T Processor,$117.00 ,Desktop,22 nm,2,4,,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+769,Intel® Core™ i5-3330 Processor,$182.00 - $187.00,Desktop,22 nm,4,4,3.20 GHz,,3.00 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q3'12
+770,Intel® Core™ i5-3330S Processor,,Desktop,22 nm,4,4,3.20 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q3'12
+771,Intel® Core™ i5-3350P Processor,$177.00 ,Desktop,22 nm,4,4,3.30 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,69 W,Q3'12
+772,Intel® Core™ i3-2328M Processor,,Mobile,32 nm,2,4,,,2.20 GHz,3 MB,5 GT/s,35 W,Q3'12
+773,Intel® Core™ i3-2365M Processor,,Mobile,32 nm,2,4,,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q3'12
+774,Intel® Core™ i3-3120ME Processor,,Embedded,22 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'12
+775,Intel® Core™ i3-3217UE Processor,,Embedded,22 nm,2,4,,,1.60 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q3'12
+776,Intel® Core™ i3-2377M Processor,,Mobile,32 nm,2,4,,,1.50 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+777,Intel® Core™ i3-3110M Processor,,Mobile,22 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+778,Intel® Core™ i3-3217U Processor,,Mobile,22 nm,2,4,,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+779,Intel® Core™ i5-3610ME Processor,,Embedded,22 nm,2,4,3.30 GHz,,2.70 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+780,Intel® Core™ i7-3517UE Processor,,Embedded,22 nm,2,4,2.80 GHz,,1.70 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+781,Intel® Core™ i7-3555LE Processor,,Embedded,22 nm,2,4,3.20 GHz,,2.50 GHz,4 MB Intel® Smart Cache,5 GT/s,25 W,Q2'12
+782,Intel® Core™ i5-3210M Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+783,Intel® Core™ i5-3210M Processor,,Mobile,22 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+784,Intel® Core™ i5-3317U Processor,$225.00 ,Mobile,22 nm,2,4,2.60 GHz,,1.70 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+785,Intel® Core™ i5-3320M Processor,$227.00 ,Mobile,22 nm,2,4,3.30 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+786,Intel® Core™ i5-3360M Processor,$269.00 ,Mobile,22 nm,2,4,3.50 GHz,,2.80 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+787,Intel® Core™ i5-3427U Processor,$225.00 ,Mobile,22 nm,2,4,2.80 GHz,,1.80 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+788,Intel® Core™ i5-3470 Processor,,Desktop,22 nm,4,4,3.60 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+789,Intel® Core™ i5-3470S Processor,,Desktop,22 nm,4,4,3.60 GHz,,2.90 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+790,Intel® Core™ i5-3470T Processor,$184.00 ,Desktop,22 nm,2,4,3.60 GHz,,2.90 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+791,Intel® Core™ i5-3475S Processor,,Desktop,22 nm,4,4,3.60 GHz,,2.90 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+792,Intel® Core™ i5-3570 Processor,$213.00 ,Desktop,22 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+793,Intel® Core™ i5-3570S Processor,,Desktop,22 nm,4,4,3.80 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+794,Intel® Core™ i7-3517U Processor,,Mobile,22 nm,2,4,3.00 GHz,,1.90 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+795,Intel® Core™ i7-3520M Processor,,Mobile,22 nm,2,4,3.60 GHz,,2.90 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+796,Intel® Core™ i7-3667U Processor,,Mobile,22 nm,2,4,3.20 GHz,,2.00 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q2'12
+797,Intel® Core™ i3-2115C Processor,,Embedded,,2,4,,,2.00 GHz,3 MB Intel® Smart Cache,5 GT/s,25 W,Q2'12
+798,Intel® Core™ i5-3450 Processor,$195.00 ,Desktop,22 nm,4,4,3.50 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+799,Intel® Core™ i5-3450S Processor,$195.00 ,Desktop,22 nm,4,4,3.50 GHz,,2.80 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+800,Intel® Core™ i5-3550 Processor,$213.00 ,Desktop,22 nm,4,4,3.70 GHz,,3.30 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+801,Intel® Core™ i5-3550S Processor,,Desktop,22 nm,4,4,3.70 GHz,,3.00 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+802,Intel® Core™ i5-3570K Processor,$235.00 ,Desktop,22 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+803,Intel® Core™ i5-3570T Processor,,Desktop,22 nm,4,4,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+804,Intel® Core™ i7-3610QE Processor,,Embedded,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+805,Intel® Core™ i7-3610QM Processor,,Mobile,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+806,Intel® Core™ i7-3612QE Processor,,Embedded,22 nm,4,8,3.10 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+807,Intel® Core™ i7-3612QM Processor,,Mobile,22 nm,4,8,3.10 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+808,Intel® Core™ i7-3612QM Processor,,Mobile,22 nm,4,8,3.10 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,35 W,Q2'12
+809,Intel® Core™ i7-3615QE Processor,$335.00 ,Embedded,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+810,Intel® Core™ i7-3615QM Processor,,Mobile,22 nm,4,8,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+811,Intel® Core™ i7-3720QM Processor,,Mobile,22 nm,4,8,3.60 GHz,,2.60 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+812,Intel® Core™ i7-3770 Processor,$305.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.40 GHz,8 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+813,Intel® Core™ i7-3770K Processor,$342.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.50 GHz,8 MB Intel® Smart Cache,5 GT/s,77 W,Q2'12
+814,Intel® Core™ i7-3770S Processor,$305.00 ,Desktop,22 nm,4,8,3.90 GHz,,3.10 GHz,8 MB Intel® Smart Cache,5 GT/s,65 W,Q2'12
+815,Intel® Core™ i7-3770T Processor,,Desktop,22 nm,4,8,3.70 GHz,,2.50 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+816,Intel® Core™ i7-3820QM Processor,,Mobile,22 nm,4,8,3.70 GHz,,2.70 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q2'12
+817,Intel® Core™ i5-2380P Processor,$187.00 ,Desktop,32 nm,4,4,3.40 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'12
+818,Intel® Core™ i5-2450P Processor,$205.00 ,Desktop,32 nm,4,4,3.50 GHz,,3.20 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'12
+819,Intel® Core™ i5-2550K Processor,$235.00 ,Desktop,32 nm,4,4,3.80 GHz,,3.40 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'12
+820,Intel® Core™ i3-2370M Processor,,Mobile,32 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'12
+821,Intel® Core™ i5-2450M Processor,,Mobile,32 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'12
+822,Intel® Core™ i7-2700K Processor,,Desktop,32 nm,4,8,3.90 GHz,,3.50 GHz,8 MB Intel® Smart Cache,5 GT/s,95 W,Q4'11
+823,Intel® Core™ i3-2350M Processor,,Mobile,32 nm,2,4,,,2.30 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q4'11
+824,Intel® Core™ i3-2367M Processor,,Mobile,32 nm,2,4,,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q4'11
+825,Intel® Core™ i5-2430M Processor,,Mobile,32 nm,2,4,3.00 GHz,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q4'11
+826,Intel® Core™ i5-2435M Processor,,Mobile,32 nm,2,4,3.00 GHz,,2.40 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q4'11
+827,Intel® Core™ i7-2670QM Processor,,Mobile,32 nm,4,8,3.10 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q4'11
+828,Intel® Core™ i7-2675QM Processor,,Mobile,32 nm,4,8,3.10 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q4'11
+829,Intel® Core™ i3-2120T Processor,$121.00 ,Desktop,32 nm,2,4,,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q3'11
+830,Intel® Core™ i3-2125 Processor,$144.00 ,Desktop,32 nm,2,4,,,3.30 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q3'11
+831,Intel® Core™ i3-2130 Processor,$117.00 ,Desktop,32 nm,2,4,,,3.40 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q3'11
+832,Intel® Core™ i5-2320 Processor,$177.00 ,Desktop,32 nm,4,4,3.30 GHz,,3.00 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q3'11
+833,Intel® Core™ i7-2640M Processor,,Mobile,32 nm,2,4,3.50 GHz,,2.80 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q4'11
+834,Intel® Core™ i7-2760QM Processor,,Mobile,32 nm,4,8,3.50 GHz,,2.40 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q4'11
+835,Intel® Core™ i7-2860QM Processor,,Mobile,32 nm,4,8,3.60 GHz,,2.50 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q4'11
+836,Intel® Core™ i7-2960XM Processor Extreme Edition,,Mobile,32 nm,4,8,3.70 GHz,,2.70 GHz,8 MB Intel® Smart Cache,5 GT/s,55 W,Q4'11
+837,Intel® Core™ i7-980 Processor,$594.00 ,Desktop,32 nm,6,12,3.60 GHz,,3.33 GHz,12 MB Intel® Smart Cache,4.8 GT/s,130 W,Q2'11
+838,Intel® Core™ i3-2330E Processor,,Mobile,32 nm,2,4,,,2.20 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'11
+839,Intel® Core™ i3-2330M Processor,,Mobile,32 nm,2,4,,,2.20 GHz,3 MB L3 Cache,5 GT/s,35 W,Q2'11
+840,Intel® Core™ i3-2340UE Processor,,Embedded,32 nm,2,4,,,1.30 GHz,3 MB Intel® Smart Cache,,17 W,Q2'11
+841,Intel® Core™ i3-2357M Processor,,Mobile,32 nm,2,4,,,1.30 GHz,3 MB L3 Cache,5 GT/s,17 W,Q2'11
+842,Intel® Core™ i5-2467M Processor,,Mobile,32 nm,2,4,2.30 GHz,,1.60 GHz,3 MB L3 Cache,5 GT/s,17 W,Q2'11
+843,Intel® Core™ i5-2557M Processor,,Mobile,32 nm,2,4,2.70 GHz,,1.70 GHz,3 MB L3 Cache,5 GT/s,17 W,Q2'11
+844,Intel® Core™ i7-2637M Processor,,Mobile,32 nm,2,4,2.80 GHz,,1.70 GHz,4 MB L3 Cache,5 GT/s,17 W,Q2'11
+845,Intel® Core™ i7-2677M Processor,,Mobile,32 nm,2,4,2.90 GHz,,1.80 GHz,4 MB L3 Cache,5 GT/s,17 W,Q2'11
+846,Intel® Core™ i5-2310 Processor,,Desktop,32 nm,4,4,3.20 GHz,,2.90 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q2'11
+847,Intel® Core™ i5-2405S Processor,,Desktop,32 nm,4,4,3.30 GHz,,2.50 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q2'11
+848,Intel® Core™ i3-2102 Processor,,Desktop,32 nm,2,4,,,3.10 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q2'11
+849,Intel® Core™ i3-2105 Processor,$134.00 ,Desktop,32 nm,2,4,,,3.10 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q2'11
+850,Intel® Core™ i3-2312M Processor,,Mobile,32 nm,2,4,,,2.10 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q2'11
+851,Intel® Core™ i7-2610UE Processor,,Embedded,32 nm,2,4,2.40 GHz,,1.50 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q1'11
+852,Intel® Core™ i7-2655LE Processor,,Embedded,32 nm,2,4,2.90 GHz,,2.20 GHz,4 MB Intel® Smart Cache,5 GT/s,25 W,Q1'11
+853,Intel® Core™ i3-2100 Processor,$120.00 ,Desktop,32 nm,2,4,,,3.10 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q1'11
+854,Intel® Core™ i3-2100T Processor,$132.00 ,Desktop,32 nm,2,4,,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+855,Intel® Core™ i3-2120 Processor,$120.00 ,Desktop,32 nm,2,4,,,3.30 GHz,3 MB Intel® Smart Cache,5 GT/s,65 W,Q1'11
+856,Intel® Core™ i3-2310M Processor,,Mobile,32 nm,2,4,,,2.10 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+857,Intel® Core™ i5-2390T Processor,,Desktop,32 nm,2,4,3.50 GHz,,2.70 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+858,Intel® Core™ i5-2410M Processor,,Mobile,32 nm,2,4,2.90 GHz,,2.30 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+859,Intel® Core™ i5-2510E Processor,,Mobile,32 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+860,Intel® Core™ i5-2515E Processor,,Embedded,32 nm,2,4,3.10 GHz,,2.50 GHz,3 MB Intel® Smart Cache,,35 W,Q1'11
+861,Intel® Core™ i5-2520M Processor,,Mobile,32 nm,2,4,3.20 GHz,,2.50 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+862,Intel® Core™ i5-2537M Processor,,Mobile,32 nm,2,4,2.30 GHz,,1.40 GHz,3 MB Intel® Smart Cache,5 GT/s,17 W,Q1'11
+863,Intel® Core™ i5-2540M Processor,$269.00 ,Mobile,32 nm,2,4,3.30 GHz,,2.60 GHz,3 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+864,Intel® Core™ i7-2617M Processor,,Mobile,32 nm,2,4,2.60 GHz,,1.50 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q1'11
+865,Intel® Core™ i7-2620M Processor,,Mobile,32 nm,2,4,3.40 GHz,,2.70 GHz,4 MB Intel® Smart Cache,5 GT/s,35 W,Q1'11
+866,Intel® Core™ i7-2629M Processor,,Mobile,32 nm,2,4,3.00 GHz,,2.10 GHz,4 MB Intel® Smart Cache,5 GT/s,25 W,Q1'11
+867,Intel® Core™ i7-2649M Processor,,Mobile,32 nm,2,4,3.20 GHz,,2.30 GHz,4 MB Intel® Smart Cache,5 GT/s,25 W,Q1'11
+868,Intel® Core™ i7-2657M Processor,,Mobile,32 nm,2,4,2.70 GHz,,1.60 GHz,4 MB Intel® Smart Cache,5 GT/s,17 W,Q1'11
+869,Intel® Core™ i7-990X Processor Extreme Edition,"$1,059.00 ",Desktop,32 nm,6,12,3.73 GHz,,3.46 GHz,12 MB Intel® Smart Cache,6.4 GT/s,130 W,Q1'11
+870,Intel® Core™ i5-2300 Processor,$187.00 ,Desktop,32 nm,4,4,3.10 GHz,,2.80 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+871,Intel® Core™ i5-2400 Processor,,Desktop,32 nm,4,4,3.40 GHz,,3.10 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+872,Intel® Core™ i5-2400S Processor,,Desktop,32 nm,4,4,3.30 GHz,,2.50 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q1'11
+873,Intel® Core™ i5-2500 Processor,,Desktop,32 nm,4,4,3.70 GHz,,3.30 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+874,Intel® Core™ i5-2500K Processor,,Desktop,32 nm,4,4,3.70 GHz,,3.30 GHz,6 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+875,Intel® Core™ i5-2500S Processor,,Desktop,32 nm,4,4,3.70 GHz,,2.70 GHz,6 MB Intel® Smart Cache,5 GT/s,65 W,Q1'11
+876,Intel® Core™ i5-2500T Processor,,Desktop,32 nm,4,4,3.30 GHz,,2.30 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+877,Intel® Core™ i7-2600 Processor,,Desktop,32 nm,4,8,3.80 GHz,,3.40 GHz,8 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+878,Intel® Core™ i7-2600K Processor,,Desktop,32 nm,4,8,3.80 GHz,,3.40 GHz,8 MB Intel® Smart Cache,5 GT/s,95 W,Q1'11
+879,Intel® Core™ i7-2600S Processor,,Desktop,32 nm,4,8,3.80 GHz,,2.80 GHz,8 MB Intel® Smart Cache,5 GT/s,65 W,Q1'11
+880,Intel® Core™ i7-2630QM Processor,,Mobile,32 nm,4,8,2.90 GHz,,2.00 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+881,Intel® Core™ i7-2635QM Processor,,Mobile,32 nm,4,8,2.90 GHz,,2.00 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+882,Intel® Core™ i7-2710QE Processor,,Mobile,32 nm,4,8,3.00 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+883,Intel® Core™ i7-2715QE Processor,,Embedded,32 nm,4,8,3.00 GHz,,2.10 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+884,Intel® Core™ i7-2720QM Processor,,Mobile,32 nm,4,8,3.30 GHz,,2.20 GHz,6 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+885,Intel® Core™ i7-2820QM Processor,$570.00 ,Mobile,32 nm,4,8,3.40 GHz,,2.30 GHz,8 MB Intel® Smart Cache,5 GT/s,45 W,Q1'11
+886,Intel® Core™ i7-2920XM Processor Extreme Edition,,Mobile,32 nm,4,8,3.50 GHz,,2.50 GHz,8 MB Intel® Smart Cache,,55 W,Q1'11
+887,Intel® Core™ i3-2310E Processor,,Embedded,32 nm,2,4,,,2.10 GHz,3 MB Intel® Smart Cache,,35 W,Q1'11
+888,Intel® Core™ i3-390M Processor,,Mobile,32 nm,2,4,,,2.66 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'11
+889,Intel® Core™ i5-480M Processor,,Mobile,32 nm,2,4,2.93 GHz,,2.66 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'11
+890,Intel® Core™ i3-380UM Processor,,Mobile,32 nm,2,4,,,1.33 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q4'10
+891,Intel® Core™ i5-470UM Processor,,Mobile,32 nm,2,4,1.86 GHz,,1.33 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q4'10
+892,Intel® Core™ i3-560 Processor,$117.00 ,Desktop,32 nm,2,4,,,3.33 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q3'10
+893,Intel® Core™ i5-760 Processor,$213.00 ,Desktop,45 nm,4,4,3.33 GHz,,2.80 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q3'10
+894,Intel® Core™ i3-370M Processor,,Mobile,32 nm,2,4,,,2.40 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+895,Intel® Core™ i3-380M Processor,,Mobile,32 nm,2,4,,,2.53 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+896,Intel® Core™ i5-460M Processor,,Mobile,32 nm,2,4,2.80 GHz,,2.53 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+897,Intel® Core™ i5-560M Processor,,Mobile,32 nm,2,4,3.20 GHz,,2.66 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+898,Intel® Core™ i5-560UM Processor,,Mobile,32 nm,2,4,2.13 GHz,,1.33 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q3'10
+899,Intel® Core™ i5-580M Processor,,Mobile,32 nm,2,4,3.33 GHz,,2.66 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+900,Intel® Core™ i7-640M Processor,,Mobile,32 nm,2,4,3.46 GHz,,2.80 GHz,4 MB Intel® Smart Cache,2.5 GT/s,35 W,Q3'10
+901,Intel® Core™ i7-660LM Processor,,Mobile,32 nm,2,4,3.06 GHz,,2.26 GHz,4 MB Intel® Smart Cache,2.5 GT/s,25 W,Q3'10
+902,Intel® Core™ i7-680UM Processor,,Mobile,32 nm,2,4,2.53 GHz,,1.46 GHz,4 MB Intel® Smart Cache,2.5 GT/s,18 W,Q3'10
+903,Intel® Core™ i7-740QM Processor,$380.00 ,Mobile,45 nm,4,8,2.93 GHz,,1.73 GHz,6 MB Intel® Smart Cache,2.5 GT/s,45 W,Q3'10
+904,Intel® Core™ i7-840QM Processor,$570.00 ,Mobile,45 nm,4,8,3.20 GHz,,1.86 GHz,8 MB Intel® Smart Cache,2.5 GT/s,45 W,Q3'10
+905,Intel® Core™ i7-940XM Processor Extreme Edition,,Mobile,45 nm,4,8,3.33 GHz,,2.13 GHz,8 MB Intel® Smart Cache,2.5 GT/s,55 W,Q3'10
+906,Intel® Core™ i7-970 Processor,$594.00 ,Desktop,32 nm,6,12,3.46 GHz,,3.20 GHz,12 MB Intel® Smart Cache,4.8 GT/s,130 W,Q3'10
+907,Intel® Core™ i3-550 Processor,$117.00 ,Desktop,32 nm,2,4,,,3.20 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q2'10
+908,Intel® Core™ i5-655K Processor,$177.00 ,Desktop,32 nm,2,4,3.46 GHz,,3.20 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q2'10
+909,Intel® Core™ i7-875K Processor,$353.00 ,Desktop,45 nm,4,8,3.60 GHz,,2.93 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q2'10
+910,Intel® Core™ i7-880 Processor,,Desktop,45 nm,4,8,3.73 GHz,,3.06 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q2'10
+911,Intel® Core™ i3-330UM Processor,,Mobile,32 nm,2,4,,,1.20 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q2'10
+912,Intel® Core™ i5-430UM Processor,,Mobile,32 nm,2,4,1.73 GHz,,1.20 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q2'10
+913,Intel® Core™ i5-540UM Processor,,Mobile,32 nm,2,4,2.00 GHz,,1.20 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q2'10
+914,Intel® Core™ i7-660UM Processor,,Mobile,32 nm,2,4,2.40 GHz,,1.33 GHz,4 MB Intel® Smart Cache,2.5 GT/s,18 W,Q2'10
+915,Intel® Core™ i5-450M Processor,,Mobile,32 nm,2,4,2.66 GHz,,2.40 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q2'10
+916,Intel® Core™ i5-680 Processor,$305.00 ,Desktop,32 nm,2,4,3.86 GHz,,3.60 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q2'10
+917,Intel® Core™ i7-870S Processor,,Desktop,45 nm,4,8,3.60 GHz,,2.66 GHz,8 MB Intel® Smart Cache,2.5 GT/s,82 W,Q2'10
+918,Intel® Core™ i7-980X Processor Extreme Edition,"$1,059.00 ",Desktop,32 nm,6,12,3.60 GHz,,3.33 GHz,12 MB Intel® Smart Cache,6.4 GT/s,130 W,Q1'10
+919,Intel® Core™ i3-530 Processor,$117.00 ,Desktop,32 nm,2,4,,,2.93 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q1'10
+920,Intel® Core™ i3-540 Processor,$117.00 ,Desktop,32 nm,2,4,,,3.06 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q1'10
+921,Intel® Core™ i5-520E Processor,$210.00 ,Embedded,32 nm,2,4,2.93 GHz,,2.40 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+922,Intel® Core™ i5-520M Processor,$227.00 ,Mobile,32 nm,2,4,2.93 GHz,,2.40 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+923,Intel® Core™ i5-520UM Processor,,Mobile,32 nm,2,4,1.87 GHz,,1.07 GHz,3 MB Intel® Smart Cache,2.5 GT/s,18 W,Q1'10
+924,Intel® Core™ i5-540M Processor,$269.00 ,Mobile,32 nm,2,4,3.07 GHz,,2.53 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+925,Intel® Core™ i5-650 Processor,$177.00 ,Desktop,32 nm,2,4,3.46 GHz,,3.20 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q1'10
+926,Intel® Core™ i5-660 Processor,$177.00 - $193.00,Desktop,32 nm,2,4,3.60 GHz,,3.33 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q1'10
+927,Intel® Core™ i5-661 Processor,$177.00 ,Desktop,32 nm,2,4,3.60 GHz,,3.33 GHz,4 MB Intel® Smart Cache,2.5 GT/s,87 W,Q1'10
+928,Intel® Core™ i5-670 Processor,$305.00 ,Desktop,32 nm,2,4,3.73 GHz,,3.46 GHz,4 MB Intel® Smart Cache,2.5 GT/s,73 W,Q1'10
+929,Intel® Core™ i5-750S Processor,$279.00 ,Desktop,45 nm,4,4,3.20 GHz,,2.40 GHz,8 MB Intel® Smart Cache,2.5 GT/s,82 W,Q1'10
+930,Intel® Core™ i7-610E Processor,$232.00 ,Mobile,32 nm,2,4,3.20 GHz,,2.53 GHz,4 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+931,Intel® Core™ i7-620LE Processor,,Embedded,32 nm,2,4,2.80 GHz,,2.00 GHz,4 MB Intel® Smart Cache,2.5 GT/s,25 W,Q1'10
+932,Intel® Core™ i7-620LM Processor,,Mobile,32 nm,2,4,2.80 GHz,,2.00 GHz,4 MB Intel® Smart Cache,2.5 GT/s,25 W,Q1'10
+933,Intel® Core™ i7-620M Processor,,Mobile,32 nm,2,4,3.33 GHz,,2.66 GHz,4 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+934,Intel® Core™ i7-620UE Processor,,Embedded,32 nm,2,4,2.13 GHz,,1.06 GHz,4 MB Intel® Smart Cache,2.5 GT/s,18 W,Q1'10
+935,Intel® Core™ i7-620UM Processor,,Mobile,32 nm,2,4,2.13 GHz,,1.06 GHz,4 MB Intel® Smart Cache,2.5 GT/s,18 W,Q1'10
+936,Intel® Core™ i7-640LM Processor,,Mobile,32 nm,2,4,2.93 GHz,,2.13 GHz,4 MB Intel® Smart Cache,2.5 GT/s,25 W,Q1'10
+937,Intel® Core™ i7-640UM Processor,,Mobile,32 nm,2,4,2.27 GHz,,1.20 GHz,4 MB Intel® Smart Cache,2.5 GT/s,18 W,Q1'10
+938,Intel® Core™ i7-860S Processor,$362.00 ,Desktop,45 nm,4,8,3.46 GHz,,2.53 GHz,8 MB Intel® Smart Cache,2.5 GT/s,82 W,Q1'10
+939,Intel® Core™ i3-330E Processor,$138.00 ,Mobile,32 nm,2,4,,,2.13 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+940,Intel® Core™ i3-330M Processor,,Mobile,32 nm,2,4,,,2.13 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+941,Intel® Core™ i3-350M Processor,,Mobile,32 nm,2,4,,,2.26 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+942,Intel® Core™ i5-430M Processor,,Mobile,32 nm,2,4,2.53 GHz,,2.26 GHz,3 MB Intel® Smart Cache,2.5 GT/s,35 W,Q1'10
+943,Intel® Core™ i7-660UE Processor,,Mobile,32 nm,2,4,2.40 GHz,,1.33 GHz,4 MB,2.5 GT/s,18 W,Q1'10
+944,Intel® Core™ i7-930 Processor,$305.00 ,Desktop,45 nm,4,8,3.06 GHz,,2.80 GHz,8 MB Intel® Smart Cache,4.8 GT/s,130 W,Q1'10
+945,Intel® Core™ i7-960 Processor,$305.00 ,Desktop,45 nm,4,8,3.46 GHz,,3.20 GHz,8 MB Intel® Smart Cache,4.8 GT/s,130 W,Q4'09
+946,Intel® Core™ i7-720QM Processor,$380.00 ,Mobile,45 nm,4,8,2.80 GHz,,1.60 GHz,6 MB Intel® Smart Cache,2.5 GT/s,45 W,Q3'09
+947,Intel® Core™ i7-820QM Processor,,Mobile,45 nm,4,8,3.06 GHz,,1.73 GHz,8 MB Intel® Smart Cache,2.5 GT/s,45 W,Q3'09
+948,Intel® Core™ i7-920XM Processor Extreme Edition,,Mobile,45 nm,4,8,3.20 GHz,,2.00 GHz,8 MB Intel® Smart Cache,2.5 GT/s,55 W,Q3'09
+949,Intel® Core™ i5-750 Processor,$193.00 - $213.00,Desktop,45 nm,4,4,3.20 GHz,,2.66 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q3'09
+950,Intel® Core™ i7-860 Processor,$305.00 ,Desktop,45 nm,4,8,3.46 GHz,,2.80 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q3'09
+951,Intel® Core™ i7-870 Processor,$305.00 ,Desktop,45 nm,4,8,3.60 GHz,,2.93 GHz,8 MB Intel® Smart Cache,2.5 GT/s,95 W,Q3'09
+952,Intel® Core™2 Quad Processor Q9505,$234.00 ,Desktop,45 nm,4,,,,2.83 GHz,6 MB L2 Cache,1333 MHz,95 W,Q3'09
+953,Intel® Core™2 Quad Processor Q9505S,,Desktop,45 nm,4,,,,2.83 GHz,6 MB L2 Cache,1333 MHz,65 W,Q3'09
+954,Intel® Core™2 Duo Processor P7570,,Mobile,45 nm,2,,,,2.26 GHz,3 MB L2 Cache,1066 MHz,25 W,Q3'09
+955,Intel® Core™2 Duo Processor T6670,,Mobile,45 nm,2,,,,2.20 GHz,2 MB L2 Cache,800 MHz,35 W,Q3'09
+956,Intel® Core™2 Duo Processor P7550,,Mobile,45 nm,2,,,,2.26 GHz,3 MB L2 Cache,1066 MHz,25 W,Q3'09
+957,Intel® Core™2 Duo Processor T6500,,Mobile,45 nm,2,,,,2.10 GHz,2 MB L2 Cache,800 MHz,35 W,Q2'09
+958,Intel® Core™ i7-950 Processor,$305.00 ,Desktop,45 nm,4,8,3.33 GHz,,3.06 GHz,8 MB Intel® Smart Cache,4.8 GT/s,130 W,Q2'09
+959,Intel® Core™ i7-975 Processor Extreme Edition,"$1,059.00 ",Desktop,45 nm,4,8,3.60 GHz,,3.33 GHz,8 MB Intel® Smart Cache,6.4 GT/s,130 W,Q2'09
+960,Intel® Core™2 Duo Processor E7600,$147.00 ,Desktop,45 nm,2,,,,3.06 GHz,3 MB L2 Cache,1066 MHz,65 W,Q2'09
+961,Intel® Core™2 Duo Processor P8800,$253.00 ,Mobile,45 nm,2,,,,2.66 GHz,3 MB L2 Cache,1066 MHz,25 W,Q2'09
+962,Intel® Core™2 Duo Processor P9700,,Mobile,45 nm,2,,,,2.80 GHz,6 MB L2 Cache,1066 MHz,28 W,Q2'09
+963,Intel® Core™2 Duo Processor T9900,,Mobile,45 nm,2,,,,3.06 GHz,6 MB L2 Cache,1066 MHz,35 W,Q2'09
+964,Intel® Core™2 Quad Processor Q8400,$179.00 ,Desktop,45 nm,4,,,,2.66 GHz,4 MB L2 Cache,1333 MHz,95 W,Q2'09
+965,Intel® Core™2 Quad Processor Q8400S,$232.00 ,Desktop,45 nm,4,,,,2.66 GHz,4 MB L2 Cache,1333 MHz,65 W,Q2'09
+966,Intel® Core™2 Solo Processor SU3500,,Mobile,45 nm,1,,,,1.30 GHz,3 MB,800 MHz,5.5 W,Q2'09
+967,Intel® Core™2 Duo Processor SL9600,,Mobile,45 nm,2,,,,2.13 GHz,6 MB L2 Cache,1066 MHz,17 W,Q1'09
+968,Intel® Core™2 Duo Processor SP9600,,Mobile,45 nm,2,,,,2.53 GHz,6 MB L2 Cache,1066 MHz,25 W,Q1'09
+969,Intel® Core™2 Duo Processor SU9600,,Mobile,45 nm,2,,,,1.60 GHz,3 MB L2 Cache,800 MHz,10 W,Q1'09
+970,Intel® Core™2 Solo Processor ULV SU3500,,Mobile,45 nm,1,,,,1.40 GHz,3 MB L2 Cache,800 MHz,5.5 W,Q2'09
+971,Intel® Core™2 Duo Processor E7500,$125.00 ,Desktop,45 nm,2,,,,2.93 GHz,3 MB L2 Cache,1066 MHz,65 W,Q1'09
+972,Intel® Core™2 Quad Processor Q8200S,$232.00 ,Desktop,45 nm,4,,,,2.33 GHz,4 MB L2 Cache,1333 MHz,65 W,Q1'09
+973,Intel® Core™2 Quad Processor Q9400S,$254.00 ,Desktop,45 nm,4,,,,2.66 GHz,6 MB L2 Cache,1333 MHz,65 W,Q1'09
+974,Intel® Core™2 Quad Processor Q9550S,$340.00 ,Desktop,45 nm,4,,,,2.83 GHz,12 MB L2 Cache,1333 MHz,65 W,Q1'09
+975,Intel® Core™2 Duo Processor P7450,,Mobile,45 nm,2,,,,2.13 GHz,3 MB L2 Cache,1066 MHz,25 W,Q1'09
+976,Intel® Core™2 Duo Processor T6400,,Mobile,45 nm,2,,,,2.00 GHz,2 MB L2 Cache,800 MHz,35 W,Q1'09
+977,Intel® Core™2 Duo Processor T6600,,Mobile,45 nm,2,,,,2.20 GHz,2 MB L2 Cache,800 MHz,35 W,Q1'09
+978,Intel® Core™2 Duo Processor SL9380,$247.00 ,Mobile,45 nm,2,,,,1.80 GHz,6 MB L2 Cache,800 MHz,17 W,Q3'08
+979,Intel® Core™2 Duo Processor P8700,,Mobile,45 nm,2,,,,2.53 GHz,3 MB L2 Cache,1066 MHz,25 W,Q4'08
+980,Intel® Core™2 Duo Processor P9600,,Mobile,45 nm,2,,,,2.66 GHz,6 MB L2 Cache,1066 MHz,25 W,Q4'08
+981,Intel® Core™2 Duo Processor T9550,,Mobile,45 nm,2,,,,2.66 GHz,6 MB L2 Cache,1066 MHz,35 W,Q4'08
+982,Intel® Core™2 Duo Processor T9800,,Mobile,45 nm,2,,,,2.93 GHz,6 MB L2 Cache,1066 MHz,35 W,Q4'08
+983,Intel® Core™2 Quad Processor Q9000,$364.00 ,Mobile,45 nm,4,,,,2.00 GHz,6 MB L2 Cache,1066 MHz,45 W,Q1'09
+984,Intel® Core™2 Quad Processor Q8300,$179.00 ,Desktop,45 nm,4,,,,2.50 GHz,4 MB L2 Cache,1333 MHz,95 W,Q4'08
+985,Intel® Core™ i7-920 Processor,$305.00 ,Desktop,45 nm,4,8,2.93 GHz,,2.66 GHz,8 MB Intel® Smart Cache,4.8 GT/s,130 W,Q4'08
+986,Intel® Core™ i7-940 Processor,$555.00 ,Desktop,45 nm,4,8,3.20 GHz,,2.93 GHz,8 MB Intel® Smart Cache,4.8 GT/s,130 W,Q4'08
+987,Intel® Core™ i7-965 Processor Extreme Edition,$990.00 ,Desktop,45 nm,4,8,3.46 GHz,,3.20 GHz,8 MB Intel® Smart Cache,6.4 GT/s,130 W,Q4'08
+988,Intel® Core™2 Duo Processor E7400,$110.00 - $125.00,Desktop,45 nm,2,,,,2.80 GHz,3 MB L2 Cache,1066 MHz,65 W,Q1'08
+989,Intel® Core™2 Duo Processor P7370,,Mobile,45 nm,2,,,,2.00 GHz,3 MB L2 Cache,1066 MHz,25 W,Q4'08
+990,Intel® Core™2 Duo Processor T5800,,Mobile,65 nm,2,,,,2.00 GHz,2 MB L2 Cache,800 MHz,35 W,Q4'08
+991,Intel® Core™2 Quad Processor Q8200,$179.00 ,Desktop,45 nm,4,,,,2.33 GHz,4 MB L2 Cache,1333 MHz,95 W,Q3'08
+992,Intel® Core™2 Duo Processor SL9300,,Mobile,45 nm,2,,,,1.60 GHz,6 MB L2 Cache,1066 MHz,17 W,Q3'08
+993,Intel® Core™2 Duo Processor SL9400,,Mobile,45 nm,2,,,,1.86 GHz,6 MB L2 Cache,1066 MHz,17 W,Q3'08
+994,Intel® Core™2 Duo Processor SP9300,,Mobile,45 nm,2,,,,2.26 GHz,6 MB L2 Cache,1066 MHz,25 W,Q3'08
+995,Intel® Core™2 Duo Processor SP9400,,Mobile,45 nm,2,,,,2.40 GHz,6 MB L2 Cache,1066 MHz,25 W,Q3'08
+996,Intel® Core™2 Duo Processor SU9300,$245.00 ,Mobile,45 nm,2,,,,1.20 GHz,3 MB L2 Cache,800 MHz,10 W,Q3'08
+997,Intel® Core™2 Duo Processor SU9400,,Mobile,45 nm,2,,,,1.40 GHz,3 MB L2 Cache,800 MHz,10 W,Q3'08
+998,Intel® Core™2 Extreme Processor QX9300,,Mobile,45 nm,4,,,,2.53 GHz,12 MB L2 Cache,1066 MHz,45 W,Q3'08
+999,Intel® Core™2 Quad Processor Q9100,,Mobile,45 nm,4,,,,2.26 GHz,12 MB L2 Cache,1066 MHz,45 W,Q3'08
+1000,Intel® Core™2 Solo Processor ULV SU3300,,Mobile,45 nm,1,,,,1.20 GHz,3 MB L2 Cache,800 MHz,5.5 W,Q3'08
+1001,Intel® Core™2 Duo Processor E7300,$117.00 ,Desktop,45 nm,2,,,,2.66 GHz,3 MB L2 Cache,1066 MHz,65 W,Q3'08
+1002,Intel® Core™2 Duo Processor E8600,$285.00 ,Desktop,45 nm,2,,,,3.33 GHz,6 MB L2 Cache,1333 MHz,65 W,Q3'08
+1003,Intel® Core™2 Quad Processor Q9400,$180.00 - $200.00,Desktop,45 nm,4,,,,2.66 GHz,6 MB L2 Cache,1333 MHz,95 W,Q3'08
+1004,Intel® Core™2 Quad Processor Q9650,$339.00 ,Desktop,45 nm,4,,,,3.00 GHz,12 MB L2 Cache,1333 MHz,95 W,Q3'08
+1005,Intel® Core™2 Duo Processor P8400,$199.00 - $211.00,Mobile,45 nm,2,,,,2.26 GHz,3 MB L2 Cache,1066 MHz,25 W,Q3'08
+1006,Intel® Core™2 Duo Processor P8600,$211.00 ,Mobile,45 nm,2,,,,2.40 GHz,3 MB L2 Cache,1066 MHz,25 W,Q3'08
+1007,Intel® Core™2 Duo Processor P9500,$364.00 ,Mobile,45 nm,2,,,,2.53 GHz,6 MB L2 Cache,1066 MHz,25 W,Q3'08
+1008,Intel® Core™2 Duo Processor T9400,$250.00 - $331.00,Mobile,45 nm,2,,,,2.53 GHz,6 MB L2 Cache,1066 MHz,35 W,Q3'08
+1009,Intel® Core™2 Duo Processor T9600,,Mobile,45 nm,2,,,,2.80 GHz,6 MB L2 Cache,1066 MHz,35 W,Q3'08
+1010,Intel® Core™2 Extreme Processor X9100,,Mobile,45 nm,2,,,,3.06 GHz,6 MB L2 Cache,1066 MHz,44 W,Q3'08
+1011,Intel® Core™2 Duo Processor P7350,,Mobile,45 nm,2,,,,2.00 GHz,3 MB L2 Cache,1066 MHz,25 W,Q3'08
+1012,Intel® Core™2 Duo Processor E7200,,Desktop,45 nm,2,,,,2.53 GHz,3 MB L2 Cache,1066 MHz,65 W,Q2'08
+1013,Intel® Core™2 Duo Processor E8300,,Desktop,45 nm,2,,,,2.83 GHz,6 MB L2 Cache,1333 MHz,65 W,Q2'08
+1014,Intel® Core™2 Duo Processor T5670,,Mobile,65 nm,2,,,,1.80 GHz,2 MB L2 Cache,800 MHz,35 W,Q2'08
+1015,Intel® Core™2 Extreme Processor QX9775,,Desktop,45 nm,4,,,,3.20 GHz,12 MB L2 Cache,1600 MHz,150 W,Q1'08
+1016,Intel® Core™2 Extreme Processor QX9770,,Desktop,45 nm,4,,,,3.20 GHz,12 MB L2 Cache,1600 MHz,136 W,Q1'08
+1017,Intel® Core™2 Quad Processor Q9300,$200.00 ,Desktop,45 nm,4,,,,2.50 GHz,6 MB L2 Cache,1333 MHz,95 W,Q1'08
+1018,Intel® Core™2 Quad Processor Q9450,,Desktop,45 nm,4,,,,2.66 GHz,12 MB L2 Cache,1333 MHz,95 W,Q1'08
+1019,Intel® Core™2 Quad Processor Q9550,$287.00 ,Desktop,45 nm,4,,,,2.83 GHz,12 MB L2 Cache,1333 MHz,95 W,Q1'08
+1020,Intel® Core™2 Duo Processor E8190,,Desktop,45 nm,2,,,,2.66 GHz,6 MB L2 Cache,1333 MHz,65 W,Q1'08
+1021,Intel® Core™2 Duo Processor E8200,,Desktop,45 nm,2,,,,2.66 GHz,6 MB L2 Cache,1333 MHz,65 W,Q1'08
+1022,Intel® Core™2 Duo Processor E8400,$179.00 ,Desktop,45 nm,2,,,,3.00 GHz,6 MB L2 Cache,1333 MHz,65 W,Q1'08
+1023,Intel® Core™2 Duo Processor E8500,$200.00 ,Desktop,45 nm,2,,,,3.16 GHz,6 MB L2 Cache,1333 MHz,65 W,Q1'08
+1024,Intel® Core™2 Duo Processor T8100,,Mobile,45 nm,2,,,,2.10 GHz,3 MB L2 Cache,800 MHz,35 W,Q1'08
+1025,Intel® Core™2 Duo Processor T8300,,Mobile,45 nm,2,,,,2.40 GHz,3 MB L2 Cache,800 MHz,35 W,Q1'08
+1026,Intel® Core™2 Duo Processor T9300,,Mobile,45 nm,2,,,,2.50 GHz,6 MB L2 Cache,800 MHz,35 W,Q1'08
+1027,Intel® Core™2 Duo Processor T9500,,Mobile,45 nm,2,,,,2.60 GHz,6 MB L2 Cache,800 MHz,35 W,Q1'08
+1028,Intel® Core™2 Extreme Processor X9000,,Mobile,45 nm,2,,,,2.80 GHz,6 MB L2 Cache,800 MHz,44 W,Q1'08
+1029,Intel® Core™2 Duo Processor U7700,,Mobile,65 nm,2,,,,1.33 GHz,2 MB L2 Cache,533 MHz,10 W,Q1'08
+1030,Intel® Core™2 Duo Processor E4700,,Desktop,65 nm,2,,,,2.60 GHz,2 MB L2 Cache,800 MHz,65 W,Q1'08
+1031,Intel® Core™2 Duo Processor T5750,,Mobile,65 nm,2,,,,2.00 GHz,2 MB L2 Cache,667 MHz,35 W,Q1'08
+1032,Intel® Core™2 Extreme Processor QX9650,,Desktop,45 nm,4,,,,3.00 GHz,12 MB L2 Cache,1333 MHz,130 W,Q4'07
+1033,Intel® Core™2 Duo Processor E4600,,Desktop,65 nm,2,,,,2.40 GHz,2 MB L2 Cache,800 MHz,65 W,Q4'07
+1034,Intel® Core™2 Duo Processor L7700,,Mobile,65 nm,2,,,,1.80 GHz,4 MB L2 Cache,800 MHz,17 W,Q3'07
+1035,Intel® Core™2 Duo Processor T7250,,Mobile,65 nm,2,,,,2.00 GHz,2 MB L2 Cache,800 MHz,35 W,Q3'07
+1036,Intel® Core™2 Duo Processor T7800,,Mobile,65 nm,2,,,,2.60 GHz,4 MB L2 Cache,800 MHz,35 W,Q3'07
+1037,Intel® Core™2 Solo Processor U2100,,Mobile,65 nm,1,,,,1.06 GHz,1 MB L2 Cache,533 MHz,5.5 W,Q3'07
+1038,Intel® Core™2 Solo Processor U2200,,Mobile,65 nm,1,,,,1.20 GHz,1 MB L2 Cache,533 MHz,5.5 W,Q3'07
+1039,Intel® Core™2 Extreme Processor X7900,,Mobile,65 nm,2,,,,2.80 GHz,4 MB L2 Cache,800 MHz,44 W,Q3'07
+1040,Intel® Core™2 Duo Processor E4500,,Desktop,65 nm,2,,,,2.20 GHz,2 MB L2 Cache,800 MHz,65 W,Q3'07
+1041,Intel® Core™2 Duo Processor E6540,,Desktop,65 nm,2,,,,2.33 GHz,4 MB L2 Cache,1333 MHz,65 W,Q3'07
+1042,Intel® Core™2 Duo Processor E6550,,Desktop,65 nm,2,,,,2.33 GHz,4 MB L2 Cache,1333 MHz,65 W,Q3'07
+1043,Intel® Core™2 Duo Processor E6750,,Desktop,65 nm,2,,,,2.66 GHz,4 MB L2 Cache,1333 MHz,65 W,Q3'07
+1044,Intel® Core™2 Duo Processor E6850,,Desktop,65 nm,2,,,,3.00 GHz,4 MB L2 Cache,1333 MHz,65 W,Q3'07
+1045,Intel® Core™2 Extreme Processor QX6850,,Desktop,65 nm,4,,,,3.00 GHz,8 MB L2 Cache,1333 MHz,130 W,Q3'07
+1046,Intel® Core™2 Quad Processor Q6700,,Desktop,65 nm,4,,,,2.66 GHz,8 MB L2 Cache,1066 MHz,105 W,Q3'07
+1047,Intel® Core™2 Extreme Processor X7800,,Mobile,65 nm,2,,,,2.60 GHz,4 MB L2 Cache,800 MHz,44 W,Q3'07
+1048,Intel® Core™2 Duo Processor T7600,,Mobile,65 nm,2,,,,2.33 GHz,4 MB L2 Cache,667 MHz,34 W,Q3'07
+1049,Intel® Core™2 Duo Processor L7300,,Mobile,65 nm,2,,,,1.40 GHz,4 MB L2 Cache,800 MHz,17 W,Q2'07
+1050,Intel® Core™2 Duo Processor L7500,,Mobile,65 nm,2,,,,1.60 GHz,4 MB L2 Cache,800 MHz,17 W,Q3'06
+1051,Intel® Core™2 Duo Processor T7100,,Mobile,65 nm,2,,,,1.80 GHz,2 MB L2 Cache,800 MHz,35 W,Q2'07
+1052,Intel® Core™2 Duo Processor T7300,,Mobile,65 nm,2,,,,2.00 GHz,4 MB L2 Cache,800 MHz,35 W,Q2'07
+1053,Intel® Core™2 Duo Processor T7500,,Mobile,65 nm,2,,,,2.20 GHz,4 MB L2 Cache,800 MHz,35 W,Q3'06
+1054,Intel® Core™2 Duo Processor T7700,,Mobile,65 nm,2,,,,2.40 GHz,4 MB L2 Cache,800 MHz,35 W,Q2'07
+1055,Intel® Core™2 Duo Processor E4400,,Desktop,65 nm,2,,,,2.00 GHz,2 MB L2 Cache,800 MHz,65 W,Q2'07
+1056,Intel® Core™2 Duo Processor E6320,,Desktop,65 nm,2,,,,1.86 GHz,4 MB L2 Cache,1066 MHz,65 W,Q2'07
+1057,Intel® Core™2 Duo Processor E6420,,Desktop,65 nm,2,,,,2.13 GHz,4 MB L2 Cache,1066 MHz,65 W,Q2'07
+1058,Intel® Core™2 Extreme Processor QX6800,,Desktop,65 nm,4,,,,2.93 GHz,8 MB L2 Cache,1066 MHz,130 W,Q2'07
+1059,Intel® Core™2 Duo Processor U7500,,Mobile,65 nm,2,,,,1.06 GHz,2 MB L2 Cache,533 MHz,10 W,Q3'06
+1060,Intel® Core™2 Duo Processor U7600,,Mobile,65 nm,2,,,,1.20 GHz,2 MB L2 Cache,533 MHz,10 W,Q2'07
+1061,Intel® Core™2 Duo Processor E4300,,Desktop,65 nm,2,,,,1.80 GHz,2 MB L2 Cache,800 MHz,65 W,Q3'06
+1062,Intel® Core™2 Quad Processor Q6600,,Desktop,65 nm,4,,,,2.40 GHz,8 MB L2 Cache,1066 MHz,105 W,Q1'07
+1063,Intel® Core™2 Duo Processor L7200,,Mobile,65 nm,2,,,,1.33 GHz,4 MB L2 Cache,667 MHz,17 W,Q1'07
+1064,Intel® Core™2 Duo Processor L7400,,Mobile,65 nm,2,,,,1.50 GHz,4 MB L2 Cache,667 MHz,17 W,Q3'06
+1065,Intel® Core™2 Extreme Processor QX6700,,Desktop,65 nm,4,,,,2.66 GHz,8 MB L2 Cache,1066 MHz,130 W,Q4'06
+1066,Intel® Core™2 Duo Processor E6300,,Desktop,65 nm,2,,,,1.86 GHz,2 MB L2 Cache,1066 MHz,65 W,Q3'06
+1067,Intel® Core™2 Duo Processor E6400,,Desktop,65 nm,2,,,,2.13 GHz,2 MB L2 Cache,1066 MHz,65 W,Q3'06
+1068,Intel® Core™2 Duo Processor E6600,,Desktop,65 nm,2,,,,2.40 GHz,4 MB L2 Cache,1066 MHz,65 W,Q3'06
+1069,Intel® Core™2 Duo Processor E6700,,Desktop,65 nm,2,,,,2.66 GHz,4 MB L2 Cache,1066 MHz,65 W,Q3'06
+1070,Intel® Core™2 Duo Processor T7400,,Mobile,65 nm,2,,,,2.16 GHz,4 MB L2 Cache,667 MHz,34 W,Q3'06
+1071,Intel® Core™2 Duo Processor U7500,,Mobile,65 nm,2,,,,1.06 GHz,2 MB L2 Cache,533 MHz,10 W,Q3'06
+1072,Intel® Core™2 Extreme Processor X6800,,Desktop,65 nm,2,,,,2.93 GHz,4 MB L2 Cache,1066 MHz,75 W,Q3'06
+1073,Intel® Core™ Duo Processor L2400,,Mobile,65 nm,2,,,,1.66 GHz,2 MB L2 Cache,667 MHz,15 W,Q1'06
+1074,Intel® Core™ Duo Processor T2500,,Mobile,65 nm,2,,,,2.00 GHz,2 MB L2 Cache,667 MHz,31 W,Q1'06
+1075,Intel® Core™ Duo Processor U2500,,Mobile,65 nm,2,,,,1.20 GHz,2 MB L2 Cache,533 MHz,9 W,Q1'06
