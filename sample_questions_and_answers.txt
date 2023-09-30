@@ -45,11 +45,30 @@ Important Questions:
 5. Are there any missing values or outliers in your data?
       Yes there were. The process on how we cleaned the data can be found in the next section.
 
-6. What kind of relationships or trends are you expecting to see in your data?
+6. What kind of relationships or trends are seen in your data?
+      The pie chart reveals that:
+      - The **Desktop** segment has the **largest** market share with **48.9%**. This means that almost half of the Intel CPUs sold are for desktop computers.
+      - The **Mobile** segment has the **second largest** market share with **35.8%**. This means that more than a third of the Intel CPUs sold are for mobile devices such as laptops and tablets.
+      - The **Embedded** segment has the **smallest** market share with **15.3%**. This means that only a small fraction of the Intel CPUs sold are for embedded systems such as IoT devices and smart appliances.
+
+      The pie chart also implies that:
+      - Intel has a strong presence in the desktop and mobile markets, but may face more competition in the embedded market.
+      - Intel may need to invest more in developing and marketing its embedded products to increase its market share and revenue.
+      - Intel may have different strategies and challenges for each market segment, depending on the customer needs and preferences.
+
+      ---------------------------------------------
+      The bar graph shows the distribution of core counts in Intel CPUs. It is based on the same dataset as the pie chart. It reveals that:
+
+      - The **most common** core count is **4**, with about **200** CPUs having this value. This means that most of the Intel CPUs have 4 cores, which can improve their performance and multitasking ability.
+      - The **least common** core count is **20**, with only about **1** CPUs having this value. This means that very few Intel CPUs have 20 cores, which may be due to their high cost and power consumption.
+      - The core count distribution is **skewed to the left**, with more CPUs having lower values than higher values. This means that Intel CPUs tend to have fewer cores, which may be suitable for most applications and customers.
+
+
 7. What type of visualizations are you planning to use and why?
+
 8. How will you ensure that your visualizations accurately represent the data?
-9. What insights are you hoping to gain from these visualizations?
-10. How would you handle sensitive information in your dataset?
+9. What insights have you gained from these visualizations?
+10. Are there sensitive information in your dataset?
 
 11. How did you clean and preprocess your data?
     Initially there were 14 columns in this dataset and 1076 records.
