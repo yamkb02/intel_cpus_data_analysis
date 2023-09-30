@@ -52,6 +52,10 @@ if selected_chart == "All Charts" or selected_chart == "Box Plot":
     # Create a box plot
     st.plotly_chart(px.box(filtered_df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
 
+# Add a button to redirect to the cookbook page
+if st.button('Go to Cookbook'):
+    st.experimental_set_query_params(page='cookbook')
 
-
-
+# Check if the page query parameter is set to 'cookbook' and display the cookbook page accordingly
+if st.experimental_get_query_params().get('page') == 'cookbook':
+    from cookbook import *
