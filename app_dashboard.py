@@ -55,7 +55,9 @@ if selected_chart == "All Charts" or selected_chart == "Box Plot":
 # Add a button to redirect to the cookbook page
 if st.button('Go to Cookbook'):
     st.experimental_set_query_params(page='cookbook')
+    print(st.experimental_get_query_params())
 
 # Check if the page query parameter is set to 'cookbook' and display the cookbook page accordingly
 if st.experimental_get_query_params().get('page') == 'cookbook':
+    print('Cookbook page')
     from cookbook import *
