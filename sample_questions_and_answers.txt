@@ -52,6 +52,32 @@ Important Questions:
 10. How would you handle sensitive information in your dataset?
 
 11. How did you clean and preprocess your data?
+    Initially there were 14 columns in this dataset and 1076 records.
+
+    Since most of almost all values under the TurboBoost column is null, we dropped it.
+
+    All rows that had missing prices were dropped as well because they were too many for an imputation.
+
+    12 out of 14 variables were classified as object types to we converted them into numerical values. 
+
+    The variable MarketSegment was converted has three values namely, Desktop, Embedded and Mobile so we used Dummy encoding to convert them.
+
+    ClockSpeedMax and ClockSpeed were converted into numerical types.
+
+    In terms of Cache, there are four types: basic, L2, L3, and Intel® Smart Cache. As technology advances, their performance improves. Labels were assigned to them using a label encoder, with higher labels for more recent technologies.
+
+    The 'Bus' variable is difficult to standardize because Gigatransfers and Megahertz can't be converted into each other. This column was dropped.
+
+    MaxTDP is also converted into an int data type.
+
+    With the case of MaxTDP and CLockSpeed, there were a lot of null values under this column.
+    Based on the descriptive statistics, the standard deviation of the ClockSpeed isnt as high compared to its mean, we can substitute the null values with the median without losing too much information.
+    MaxTDP on the other hand is the opposite, thus it would be risky to make substitutions with the null values. So we dropped this column.
+
+    All other columns with very little null values were substituted with their median.
+
+
+    
 12. What challenges did you face while working with this dataset and how did you overcome them?
 13. Did you find any interesting patterns or anomalies while exploring the data?
 14. How does your visualization help in understanding the dataset better?
@@ -94,3 +120,8 @@ Important Questions:
 48. How would you visualize the results differently if you were presenting to a different audience (e.g., experts vs general public)? 
 49. What other types of analyses could be performed on this dataset? 
 50. What did you learn from this project? 
+51. Why is the BornDate column dropped? 
+        This is the case because the date of release is not a relevant predictor of the price of a processor. 
+        The price depends more on the technical specifications and the market demand of the processor. 
+        The date of release is only an indicator of when the processor was launched, but it does not reflect its current value or performance. 
+        Therefore, it is not useful to include it in a price prediction model.
