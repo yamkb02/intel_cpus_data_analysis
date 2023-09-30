@@ -43,7 +43,11 @@ Important Questions:
 
 
 5. Are there any missing values or outliers in your data?
-      
+      Yes, there are some missing values and outliers in the data:
+      The variable TurboBoost has almost all values null, so it is dropped from the data.
+      The variable Price has many missing values, so the rows with null price are dropped from the data.
+      The variable MaxTDP has a very high standard deviation and a large interquartile range, indicating the presence of outliers. It is also dropped from the data.
+      The variables ClockSpeedMax, ClockSpeed, and Lithography have some null values, which are imputed with the median of each variable.
 
 6. What kind of relationships or trends are you expecting to see in your data?
 7. What type of visualizations are you planning to use and why?
