@@ -49,11 +49,25 @@ Important Questions:
       The variable MaxTDP has a very high standard deviation and a large interquartile range, indicating the presence of outliers. It is also dropped from the data.
       The variables ClockSpeedMax, ClockSpeed, and Lithography have some null values, which are imputed with the median of each variable.
 
-6. What kind of relationships or trends are you expecting to see in your data?
+6. What kind of relationships or trends are seen in your data?
+      The pie chart reveals that:
+      - The **Desktop** segment has the **largest** market share with **48.9%**. This means that almost half of the Intel CPUs sold are for desktop computers.
+      - The **Mobile** segment has the **second largest** market share with **35.8%**. This means that more than a third of the Intel CPUs sold are for mobile devices such as laptops and tablets.
+      - The **Embedded** segment has the **smallest** market share with **15.3%**. This means that only a small fraction of the Intel CPUs sold are for embedded systems such as IoT devices and smart appliances.
+
+      The pie chart also implies that:
+      - Intel has a strong presence in the desktop and mobile markets, but may face more competition in the embedded market.
+      - Intel may need to invest more in developing and marketing its embedded products to increase its market share and revenue.
+      - Intel may have different strategies and challenges for each market segment, depending on the customer needs and preferences.
+
+      ---------------------------------------------
+      
+
 7. What type of visualizations are you planning to use and why?
+
 8. How will you ensure that your visualizations accurately represent the data?
-9. What insights are you hoping to gain from these visualizations?
-10. How would you handle sensitive information in your dataset?
+9. What insights have you gained from these visualizations?
+10. Are there sensitive information in your dataset?
 
 11. How did you clean and preprocess your data?
 12. What challenges did you face while working with this dataset and how did you overcome them?

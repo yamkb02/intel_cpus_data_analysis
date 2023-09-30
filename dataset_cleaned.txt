@@ -1,4 +1,5 @@
-after cleaning:
+After Cleaning:
+
 ,Model,Price,MarketSegment,Lithography,CoreCount,ThreadCount,ClockSpeedMax,TurboBoostMaxTechMaxFreq,ClockSpeed,Cache,Bus,MaxTDP,BornOnDate
 0,Intel® Core™ i9-10900X X-series Processor,$648.00 - $658.00,Desktop,14 nm,10,20,4.50 GHz,4.70 GHz,3.70 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
 1,Intel® Core™ i9-10920X X-series Processor,$759.00 - $769.00,Desktop,14 nm,12,24,4.60 GHz,4.80 GHz,3.50 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
@@ -1097,7 +1098,8 @@ after cleaning:
 
 
 
-before cleaning:
+Before Cleaning:
+
 ,Model,Price,MarketSegment,Lithography,CoreCount,ThreadCount,ClockSpeedMax,TurboBoostMaxTechMaxFreq,ClockSpeed,Cache,Bus,MaxTDP,BornOnDate
 0,Intel® Core™ i9-10900X X-series Processor,$648.00 - $658.00,Desktop,14 nm,10,20,4.50 GHz,4.70 GHz,3.70 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
 1,Intel® Core™ i9-10920X X-series Processor,$759.00 - $769.00,Desktop,14 nm,12,24,4.60 GHz,4.80 GHz,3.50 GHz,19.25 MB Intel® Smart Cache,8 GT/s DMI3,165 W,Q4'19
