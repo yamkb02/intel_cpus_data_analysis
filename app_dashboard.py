@@ -9,6 +9,10 @@ df = pd.read_csv('Intel_CPUs_cleaned.csv')
 def dashboard_page():
     # Title
     st.title("Intel CPUs Dashboard")
+    
+    if st.button("Go to Cookbook"):
+        st.session_state.runpage = 'cookbook'
+        st.experimental_rerun()
 
     # Slider for Core Count range
     core_count_range = st.slider("Select a range for Core Count", 0, int(df['CoreCount'].max()), (0, int(df['CoreCount'].max())))
@@ -53,10 +57,6 @@ def dashboard_page():
     if selected_chart == "All Charts" or selected_chart == "Box Plot":
         # Create a box plot
         st.plotly_chart(px.box(filtered_df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
-
-    if st.button("Go to Cookbook"):
-        st.session_state.runpage = 'cookbook'
-        st.experimental_rerun()
 
 if 'runpage' not in st.session_state:
     st.session_state.runpage = 'dashboard'
