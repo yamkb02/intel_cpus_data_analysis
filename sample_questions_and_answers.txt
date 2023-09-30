@@ -1,8 +1,50 @@
+Important Questions:
+1, 2, 3, 4, 5, 11, 12, 13, 14, 15, 16, 18, 19, 22, 29.
+
+=====================================================
 1. What is the source of your data?
+      https://www.kaggle.com/datasets/lucaortolan/intel-cpus-dataset/download?datasetVersionNumber=1
+
 2. Why did you choose this particular dataset?
+      The choice to use a dataset of Intel processors is based on several factors:
+
+      Industry Relevance: Intel is one of the leading manufacturers of processors in the world. Their products are used in a wide range of devices, from personal computers to servers. Analyzing Intel's processors can provide valuable insights into current industry standards and trends.
+
+      Diversity of Data: Intel's product line is diverse, ranging from budget-friendly processors for everyday use to high-performance processors for gaming and professional work. This diversity allows for a more comprehensive analysis as it covers a wide spectrum of the market.
+
+      3. Technical Specifications: The dataset includes detailed technical specifications of the processors such as 'Model', 'Price', 'MarketSegment', 'Lithography', 'CoreCount', 'ThreadCount', 'ClockSpeedMax', 'TurboBoostMaxTechMaxFreq', 'ClockSpeed', 'Cache', 'Bus', 'MaxTDP', and 'BornOnDate'. These attributes can provide insights into the design philosophy, performance characteristics, and pricing strategy of Intel processors.
+
+      Benchmarking and Comparison: By analyzing Intel's processors, we can establish a benchmark against which other manufacturers' products can be compared. This can be particularly useful when studying market competition and technological advancements in the industry.
+
+      However, it's important to note that while this dataset provides valuable insights into Intel's processors, it does not represent the entire processor market. For a more comprehensive analysis, it would be beneficial to include data from other manufacturers as well.
+
 3. What are the variables in your dataset?
+      The variables in the dataset of Intel processors are:
+
+      Model: The specific model of the processor.
+      Price: The price of the processor.
+      MarketSegment: The market segment that the processor is targeted towards, such as consumer, enterprise, etc.
+      Lithography: The size of the transistors in the processor, measured in nanometers.
+      CoreCount: The number of cores in the processor.
+      ThreadCount: The number of threads that the processor can handle simultaneously.
+      ClockSpeedMax: The maximum clock speed of the processor under normal conditions.
+      TurboBoostMaxTechMaxFreq: The maximum frequency achievable using Intel's Turbo Boost Max Technology.
+      ClockSpeed: The base clock speed of the processor.
+      Cache: The size of the processor's cache memory.
+      Bus: The bus speed of the processor.
+      MaxTDP: The maximum Thermal Design Power (TDP) that the cooling system needs to dissipate.
+      BornOnDate: The release date of the processor.
+
+      Each of these variables provides a different piece of information about the processors and can be used to analyze and compare their performance, cost, and other characteristics.
+
 4. What is the size of your dataset (number of observations and variables)?
+      1076 rows × 14 columns before cleaning
+      595 rows × 11 columns after cleaning
+
+
 5. Are there any missing values or outliers in your data?
+      
+
 6. What kind of relationships or trends are you expecting to see in your data?
 7. What type of visualizations are you planning to use and why?
 8. How will you ensure that your visualizations accurately represent the data?

@@ -1,61 +1,54 @@
-import streamlit as st
-import plotly.express as px
-import pandas as pd
+1. What is the source of your data?
+2. Why did you choose this particular dataset?
+3. What are the variables in your dataset?
+4. What is the size of your dataset (number of observations and variables)?
+5. Are there any missing values or outliers in your data?
+6. What kind of relationships or trends are you expecting to see in your data?
+7. What type of visualizations are you planning to use and why?
+8. How will you ensure that your visualizations accurately represent the data?
+9. What insights are you hoping to gain from these visualizations?
+10. How would you handle sensitive information in your dataset?
 
-# Load the dataset
-df = pd.read_csv('Intel_CPUs_cleaned.csv')
+11. How did you clean and preprocess your data?
+12. What challenges did you face while working with this dataset and how did you overcome them?
+13. Did you find any interesting patterns or anomalies while exploring the data?
+14. How does your visualization help in understanding the dataset better?
+15. What assumptions are you making about the data?
+16. How would you present your findings to a non-technical audience?
+17. What other data would you have liked to have for this analysis?
+18. Can you explain why you chose a specific type of chart over others for your data?
+19. What is the impact of this visualization? What actions could be taken based on it?
+20. If you had more time, what additional analyses or visualizations would you create?
 
-# Title
-st.title("Intel CPUs Dashboard")
+21. How did you validate the data?
+22. What are the limitations of your dataset?
+23. How did you handle categorical variables in your dataset?
+24. Did you standardize or normalize your data? If so, why and how?
+25. What is the time period of the data?
+26. Did you find any correlations in your data?
+27. How did you ensure the privacy of individuals if your dataset contains personal information?
+28. What were some of the ethical considerations you made while working with this dataset?
+29. If you had to collect your own data for this project, how would you do it?
+30. What would be your next steps based on the insights from this visualization?
 
-# Slider for Core Count range
-core_count_range = st.slider("Select a range for Core Count", 0, int(df['CoreCount'].max()), (0, int(df['CoreCount'].max())))
+31. How did you handle duplicate data, if any?
+32. What kind of statistical tests did you perform on the data?
+33. Did you use any machine learning algorithms on the dataset? If so, why and how?
+34. How did you validate the results of your analysis?
+35. What was the most challenging part of the project and how did you overcome it?
+36. Did you collaborate with anyone on this project? If so, how did you divide the work?
+37. How would you handle a larger dataset?
+38. What kind of biases could be present in your dataset and how did you account for them?
+39. What are some real-world implications of your findings?
+40. How would you explain your project to someone without a background in data analytics?
 
-# Filter the DataFrame based on the selected core count range
-filtered_df = df[(df['CoreCount'] >= core_count_range[0]) & (df['CoreCount'] <= core_count_range[1])]
-
-# Dropdown to select the chart
-selected_chart = st.selectbox("Select a Chart", ["All Charts", "Pie Chart", "Bar Chart", "Scatter Plot 1", "Scatter Plot 2", "Correlation Matrix", "Heatmap", "Box Plot"])
-
-# Check the selected chart and display accordingly
-if selected_chart == "All Charts" or selected_chart == "Pie Chart":
-    # Create a pie chart
-    desktop_count = filtered_df['Desktop'].sum()
-    embedded_count = filtered_df['Embedded'].sum()
-    mobile_count = filtered_df['Mobile'].sum()
-
-    data = pd.DataFrame({
-        'Type': ['Desktop', 'Embedded', 'Mobile'],
-        'Count': [desktop_count, embedded_count, mobile_count]
-    })
-
-    st.plotly_chart(px.pie(data, values='Count', names='Type', title='Market Segmentation of Intel CPUs'))
-
-if selected_chart == "All Charts" or selected_chart == "Bar Chart":
-    # Create a bar chart
-    st.plotly_chart(px.histogram(filtered_df, x='CoreCount', title='Distribution of Core Counts in Intel CPUs'))
-
-if selected_chart == "All Charts" or selected_chart == "Scatter Plot 1":
-    # Create a scatter plot
-    st.plotly_chart(px.scatter(filtered_df, x='ClockSpeedMax', y='Price', title='Maximum Clock Speed vs Price'))
-
-if selected_chart == "All Charts" or selected_chart == "Scatter Plot 2":
-    # Create another scatter plot
-    st.plotly_chart(px.scatter(filtered_df, x='CoreCount', y='Price', title='Core Count vs Price'))
-
-if selected_chart == "All Charts" or selected_chart == "Heatmap":
-    # Create a heatmap
-    heatmap_data = filtered_df[['Price', 'CoreCount', 'ThreadCount']].corr()
-    st.plotly_chart(px.imshow(heatmap_data, title='Heatmap of Price vs CoreCount and ThreadCount', color_continuous_scale='Viridis'))
-
-if selected_chart == "All Charts" or selected_chart == "Box Plot":
-    # Create a box plot
-    st.plotly_chart(px.box(filtered_df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
-
-# Add a button to redirect to the cookbook page
-if st.button('Go to Cookbook'):
-    st.experimental_set_query_params(page='cookbook')
-
-# Check if the page query parameter is set to 'cookbook' and display the cookbook page accordingly
-if st.experimental_get_query_params().get('page') == 'cookbook':
-    from cookbook import *
+41. How did you deal with imbalanced data, if any?
+42. Did you perform any feature engineering? 
+43. What measures did you take to ensure the reproducibility of your results? 
+44. Did you cross-validate your results? 
+45. What software/tools did you use for your analysis and why? 
+46. How would you improve your analysis given more time or resources? 
+47. What was the most surprising finding from your analysis? 
+48. How would you visualize the results differently if you were presenting to a different audience (e.g., experts vs general public)? 
+49. What other types of analyses could be performed on this dataset? 
+50. What did you learn from this project? 
