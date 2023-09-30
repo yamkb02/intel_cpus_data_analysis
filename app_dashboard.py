@@ -9,13 +9,9 @@ df = pd.read_csv('Intel_CPUs_cleaned.csv')
 def dashboard_page():
     # Title
     st.title("Intel CPUs Dashboard")
-    
     if st.button("Go to Cookbook"):
         st.session_state.runpage = 'cookbook'
         st.experimental_rerun()
-
-    # Slider for Core Count range
-    core_count_range = st.slider("Select a range for Core Count", 0, int(df['CoreCount'].max()), (0, int(df['CoreCount'].max())))
 
     # Dropdown to select the chart
     selected_chart = st.selectbox("Select a Chart", ["All Charts", "Pie Chart", "Bar Chart", "Scatter Plot 1", "Scatter Plot 2", "Correlation Matrix", "Heatmap", "Box Plot"])
@@ -56,9 +52,9 @@ def dashboard_page():
         st.plotly_chart(px.box(df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
 
 if 'runpage' not in st.session_state:
-    st.session_state.runpage = 'app_dashboard'
+    st.session_state.runpage = 'dashboard'
 
-if st.session_state.runpage == 'app_dashboard':
+if st.session_state.runpage == 'dashboard':
     dashboard_page()
 elif st.session_state.runpage == 'cookbook':
     cookbook.run()
