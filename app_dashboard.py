@@ -40,6 +40,10 @@ st.plotly_chart(px.imshow(heatmap_data, title='Heatmap of Price vs CoreCount and
 # Create a box plot
 st.plotly_chart(px.box(df, x="Lithography", y="ClockSpeedMax", title='Distribution of Clock Speed Max by Lithography'))
 
+# Create a scatter plot with a slider
+core_count = st.slider('Select the minimum number of cores:', 1, 10, 1)
+filtered_df = df[df['CoreCount'] >= core_count]
+st.plotly_chart(px.scatter(filtered_df, x='ClockSpeedMax', y='Price', title=f'Maximum Clock Speed vs Price (Minimum {core_count} Cores)'))
 
 # You can add more 3D-style effects to other plots as needed
 
