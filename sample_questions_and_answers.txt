@@ -1,6 +1,6 @@
 Important Questions:
 1, 2, 3, 4, 5, 11, 12, 13, 14, 15, 16, 18, 19, 22, 29.
-sdfsdfs
+
 =====================================================
 1. What is the source of your data?
       https://www.kaggle.com/datasets/lucaortolan/intel-cpus-dataset/download?datasetVersionNumber=1
