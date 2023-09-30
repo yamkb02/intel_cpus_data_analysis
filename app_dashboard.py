@@ -43,11 +43,6 @@ if selected_chart == "All Charts" or selected_chart == "Scatter Plot 2":
     # Create another scatter plot
     st.plotly_chart(px.scatter(filtered_df, x='CoreCount', y='Price', title='Core Count vs Price'))
 
-if selected_chart == "All Charts" or selected_chart == "Correlation Matrix":
-    # Create a correlation matrix heatmap
-    correlation_data = filtered_df.iloc[:, 1:].corr()
-    st.plotly_chart(px.imshow(correlation_data, title='Correlation Matrix', color_continuous_scale='Viridis'))
-
 if selected_chart == "All Charts" or selected_chart == "Heatmap":
     # Create a heatmap
     heatmap_data = filtered_df[['Price', 'CoreCount', 'ThreadCount']].corr()
