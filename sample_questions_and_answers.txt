@@ -43,7 +43,7 @@ Important Questions:
 
 
 5. Are there any missing values or outliers in your data?
-      
+      Yes there were. The process on how we cleaned the data can be found in the next section.
 
 6. What kind of relationships or trends are you expecting to see in your data?
 7. What type of visualizations are you planning to use and why?
