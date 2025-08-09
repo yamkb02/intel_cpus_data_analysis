@@ -5,7 +5,7 @@ def run():
     st.title('Cookbook')
     if st.button("Return to Dashboard"):
         st.session_state.runpage = 'dashboard'
-        st.experimental_rerun()
+        st.rerun()
 
     st.write('## What is your data set?')
     st.write('**Intel Processors**')

@@ -11,7 +11,7 @@ def dashboard_page():
     st.title("Intel CPUs Dashboard")
     if st.button("Go to Cookbook"):
         st.session_state.runpage = 'cookbook'
-        st.experimental_rerun()
+        st.rerun()
 
     # Dropdown to select the chart
     selected_chart = st.selectbox("Select a Chart", ["All Charts", "Pie Chart", "Bar Chart", "Scatter Plot 1", "Scatter Plot 2", "Correlation Matrix", "Heatmap", "Box Plot"])
