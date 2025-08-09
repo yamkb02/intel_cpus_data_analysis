@@ -1,0 +1,6 @@
+dash
+pandas
+plotly
+dash-bootstrap-components
+streamlit
+Pillow
