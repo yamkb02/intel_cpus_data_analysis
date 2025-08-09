@@ -38,4 +38,4 @@ MVP complete. Dashboard and data cleaning pipeline are functional. Future improv
 
 ## License
 
-MIT License © 2024 [Your Name]
+Copyright (c) 2023 Mark Kenneth S. Badilla
